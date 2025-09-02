@@ -1,0 +1,24 @@
+{
+    "relatos": [
+        {
+            "texto": "Minha filha está com febre alta e muita tosse há dois dias. Ela também reclama de dor de cabeça e está bem cansada.",
+            "sintomas_previstos": ["dor de cabeça", "febre", "tosse", "cansaço"] 
+        },
+        {
+            "texto": "Eu estou sentindo uma dor abdominal forte e tive diarreia várias vezes desde a manhã. Além disso, estou com uma dor nas costas que não melhora.",
+            "sintomas_previstos": ["dor abdominal", "diarreia", "dor nas costas"]
+        },
+        {
+            "texto": "Sinto um cansaço extremo e uma dor no peito que aparece quando faço esforço. Não tenho febre, mas estou preocupado com esses sintomas.",
+            "sintomas_previstos": ["dor no peito", "cansaço", "dor de cabeça"]
+        },
+        {
+            "texto": "Acordei com uma tosse muito forte e febre baixa. Também sinto dores nas costas e uma fadiga que não me deixa fazer nada.",
+            "sintomas_previstos": ["tosse", "febre", "dor nas costas", "cansaço"]
+        },
+        {
+            "texto": "Estou sentindo cólicas abdominais e tive diarreia. Tenho uma dor nas costas que me incomoda, mas nenhuma febre ou outro sintoma.",
+            "sintomas_previstos": ["dor abdominal", "diarreia", "dor nas costas"]
+        }
+    ]
+}
