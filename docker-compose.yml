@@ -4,6 +4,8 @@ services:
       context: ./service-slm
       dockerfile: Dockerfile
     container_name: tinyllama_container
+    ports:
+      - "8080:8080"
     volumes:
       - ./models:/models
     command: >
@@ -13,5 +15,5 @@ services:
         wget -O /models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf \
         https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf;
       fi;
-      /app/llama.cpp/build/bin/llama-cli -m /models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf -p 'Relato do paciente: Estou com muita dor de cabeça e febre desde ontem. Também sinto cansaço.' -n 128 --temp 0.7
+      /app/llama.cpp/build/bin/llama-server -m /models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf --host 0.0.0.0 --port 8080
       "

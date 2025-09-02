@@ -1,0 +1,42 @@
+[
+  {
+    "codigo_ciap2": "A03",
+    "descricao_ciap2": "FEBRE",
+    "sintoma": "febre"
+  },
+  {
+    "codigo_ciap2": "A04",
+    "descricao_ciap2": "DEBILIDADE/CANSAÇO GERAL/FADIGA",
+    "sintoma": "cansaço"
+  },
+  {
+    "codigo_ciap2": "D01",
+    "descricao_ciap2": "DOR ABDOMINAL GENERALIZADA/CÓLICAS",
+    "sintoma": "dor abdominal"
+  },
+  {
+    "codigo_ciap2": "D11",
+    "descricao_ciap2": "DIARREIA",
+    "sintoma": "diarreia"
+  },
+  {
+    "codigo_ciap2": "N01",
+    "descricao_ciap2": "CEFALÉIA",
+    "sintoma": "dor de cabeça"
+  },
+  {
+    "codigo_ciap2": "R05",
+    "descricao_ciap2": "TOSSE",
+    "sintoma": "tosse"
+  },
+  {
+    "codigo_ciap2": "K01",
+    "descricao_ciap2": "DOR ATRIBUÍDA AO CORAÇÃO",
+    "sintoma": "dor no peito"
+  },
+  {
+    "codigo_ciap2": "L03",
+    "descricao_ciap2": "SINAIS/SINTOMAS DA REGIÃO LOMBAR",
+    "sintoma": "dor nas costas"
+  }
+]

@@ -20,4 +20,4 @@ RUN cmake -B build && \
 
 WORKDIR /app/llama.cpp/build/bin
 
-CMD ["./llama-cli", "-m", "tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf", "-p", "Qual capital do Brasil", "-n", "128", "--temp", "0.7"]
+CMD ["./llama-server", "-m", "/models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf", "--host", "0.0.0.0", "--port", "8080"]

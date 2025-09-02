@@ -1,0 +1,4118 @@
+[
+  {
+    "codigo_ciap2":"A01",
+    "descricao_ciap2":"DOR GENERALIZADA \/MÚLTIPLA",
+    "codigo_cid10":"R52",
+    "descricao_cid10":"DOR NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"A02",
+    "descricao_ciap2":"ARREPIOS\/ CALAFRIOS",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"A03",
+    "descricao_ciap2":"FEBRE",
+    "codigo_cid10":"R50",
+    "descricao_cid10":"FEBRE DE ORIGEM DESCONHECIDA E DE OUTRAS ORIGENS"
+  },
+  {
+    "codigo_ciap2":"A04",
+    "descricao_ciap2":"DEBILIDADE\/CANSAÇO GERAL\/FADIGA",
+    "codigo_cid10":"R53",
+    "descricao_cid10":"MAL ESTAR, FADIGA"
+  },
+  {
+    "codigo_ciap2":"A05",
+    "descricao_ciap2":"SENTIR-SE DOENTE",
+    "codigo_cid10":"R53",
+    "descricao_cid10":"MAL ESTAR, FADIGA"
+  },
+  {
+    "codigo_ciap2":"A06",
+    "descricao_ciap2":"DESMAIO\/SÍNCOPE",
+    "codigo_cid10":"R55",
+    "descricao_cid10":"SÍNCOPE E COLAPSO"
+  },
+  {
+    "codigo_ciap2":"A07",
+    "descricao_ciap2":"COMA",
+    "codigo_cid10":"R402",
+    "descricao_cid10":"COMA NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"A08",
+    "descricao_ciap2":"INCHAÇO",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"A09",
+    "descricao_ciap2":"PROBLEMAS DE SUDORESE",
+    "codigo_cid10":"R61",
+    "descricao_cid10":"HIPERIDROSE"
+  },
+  {
+    "codigo_ciap2":"A10",
+    "descricao_ciap2":"SANGRAMENTO\/HEMORRAGIA NE",
+    "codigo_cid10":"R58",
+    "descricao_cid10":"HEMORRAGIA NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"A11",
+    "descricao_ciap2":"DORES TORÁCICAS NE",
+    "codigo_cid10":"R07",
+    "descricao_cid10":"DOR DE GARGANTA E NO PEITO"
+  },
+  {
+    "codigo_ciap2":"A13",
+    "descricao_ciap2":"RECEIO\/MEDO DO TRATAMENTO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"A16",
+    "descricao_ciap2":"CRIANÇA IRRITÁVEL",
+    "codigo_cid10":"R681",
+    "descricao_cid10":"SINTOMAS NÃO ESPECÍFICOS PECULIARES À INFÂNCIA"
+  },
+  {
+    "codigo_ciap2":"A18",
+    "descricao_ciap2":"PREOCUPAÇÃO COM APARÊNCIA",
+    "codigo_cid10":"R468",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS À APARÊNCIA E AO COMPORTAMENTO"
+  },
+  {
+    "codigo_ciap2":"A20",
+    "descricao_ciap2":"PEDIDO\/DISCUSSÃO EUTANÁSIA",
+    "codigo_cid10":"Z718",
+    "descricao_cid10":"OUTROS ACONSELHAMENTOS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"A21",
+    "descricao_ciap2":"FATOR DE RISCO DE MALIGNIDADE",
+    "codigo_cid10":"Z80",
+    "descricao_cid10":"HISTÓRIA FAMILIAR DE NEOPLASIA MALIGNA"
+  },
+  {
+    "codigo_ciap2":"A23",
+    "descricao_ciap2":"FATOR DE RISCO NE",
+    "codigo_cid10":"Z918",
+    "descricao_cid10":"HISTÓRIA PESSOAL DE OUTROS FATORES DE RISCO ESPECIFICADOS NÃO CLASSIFICADOS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"A25",
+    "descricao_ciap2":"MEDO DE MORRER\/MEDO DA MORTE",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"A26",
+    "descricao_ciap2":"MEDO DE CÂNCER NE",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"A27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA NE",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"A28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE NE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"A29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS GERAIS",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"A70",
+    "descricao_ciap2":"TUBERCULOSE",
+    "codigo_cid10":"A16",
+    "descricao_cid10":"TUBERCULOSE DAS VIAS RESPIRATÓRIAS, SEM CONFIRMAÇÃO BACTERIOLÓGICA OU HISTOLÓGICA"
+  },
+  {
+    "codigo_ciap2":"A71",
+    "descricao_ciap2":"SARAMPO",
+    "codigo_cid10":"B05",
+    "descricao_cid10":"SARAMPO"
+  },
+  {
+    "codigo_ciap2":"A72",
+    "descricao_ciap2":"VARICELA",
+    "codigo_cid10":"B01",
+    "descricao_cid10":"VARICELA"
+  },
+  {
+    "codigo_ciap2":"A73",
+    "descricao_ciap2":"MALÁRIA",
+    "codigo_cid10":"B54",
+    "descricao_cid10":"MALÁRIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"A74",
+    "descricao_ciap2":"RUBÉOLA",
+    "codigo_cid10":"B06",
+    "descricao_cid10":"RUBÉOLA"
+  },
+  {
+    "codigo_ciap2":"A75",
+    "descricao_ciap2":"MONONUCLEOSE INFECCIOSA",
+    "codigo_cid10":"B27",
+    "descricao_cid10":"MONONUCLEOSE INFECCIOSA"
+  },
+  {
+    "codigo_ciap2":"A76",
+    "descricao_ciap2":"OUTRO EXANTEMA VIRAL",
+    "codigo_cid10":"B09",
+    "descricao_cid10":"INFECÇÃO VIRAL NÃO ESPECIFICADA CARACTERIZADA POR LESÕES DA PELE E MEMBRANAS MUCOSAS"
+  },
+  {
+    "codigo_ciap2":"A77",
+    "descricao_ciap2":"DENGUE E OUTRAS DOENÇAS VIRAIS NE",
+    "codigo_cid10":"B34",
+    "descricao_cid10":"DOENÇAS POR VÍRUS, DE LOCALIZAÇÃO NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"A78",
+    "descricao_ciap2":"HANSENÍASE E OUTRAS DOENÇAS INFECCIOSAS NE",
+    "codigo_cid10":"B99",
+    "descricao_cid10":"DOENÇAS INFECCIOSAS, OUTRAS E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"A79",
+    "descricao_ciap2":"CARCINOMATOSE (LOCALIZAÇÃO PRIMÁRIA DESCONHECIDA)",
+    "codigo_cid10":"C80",
+    "descricao_cid10":"NEOPLASIA MALIGNA, SEM ESPECIFICAÇÃO DE LOCALIZAÇÃO"
+  },
+  {
+    "codigo_ciap2":"A80",
+    "descricao_ciap2":"LESÃO TRAUMÁTICA\/ACIDENTE NE",
+    "codigo_cid10":"T14",
+    "descricao_cid10":"TRAUMATISMO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"A81",
+    "descricao_ciap2":"POLITRAUMATISMOS\/FERIMENTOS MÚLTIPLOS",
+    "codigo_cid10":"T07",
+    "descricao_cid10":"TRAUMATISMOS MÚLTIPLOS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"A82",
+    "descricao_ciap2":"EFEITO SECUNDÁRIO DE LESÃO TRAUMÁTICA",
+    "codigo_cid10":"T941",
+    "descricao_cid10":"SEQÜELAS DE TRAUMATISMOS NÃO ESPECIFICADOS POR REGIÕES DO CORPO"
+  },
+  {
+    "codigo_ciap2":"A84",
+    "descricao_ciap2":"INTOXICAÇÃO POR MEDICAMENTO",
+    "codigo_cid10":"T50",
+    "descricao_cid10":"INTOXICAÇÃO POR DIURÉTICOS E OUTRAS DROGAS, MEDICAMENTOS E SUBSTÂNCIAS BIOLÓGICAS E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"A85",
+    "descricao_ciap2":"EFEITO ADVERSO DE FÁRMACO DOSE CORRETA",
+    "codigo_cid10":"T887",
+    "descricao_cid10":"EFEITO ADVERSO NÃO ESPECIFICADO DE DROGA OU MEDICAMENTO"
+  },
+  {
+    "codigo_ciap2":"A86",
+    "descricao_ciap2":"EFEITO TÓXICO DE SUBSTÂNCIA NÃO MEDICINAL",
+    "codigo_cid10":"T65",
+    "descricao_cid10":"EFEITO TÓXICO DE OUTRAS SUBSTÂNCIAS E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"A87",
+    "descricao_ciap2":"COMPLICAÇÕES DE TRATAMENTO MÉDICO",
+    "codigo_cid10":"T88",
+    "descricao_cid10":"OUTRAS COMPLICAÇÕES DE CUIDADOS MÉDICOS E CIRÚRGICOS NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"A88",
+    "descricao_ciap2":"EFEITO ADVERSO DE FATOR FÍSICO",
+    "codigo_cid10":"T75",
+    "descricao_cid10":"EFEITOS DE OUTRAS CAUSAS EXTERNAS"
+  },
+  {
+    "codigo_ciap2":"A89",
+    "descricao_ciap2":"EFEITO DA PRÓTESE",
+    "codigo_cid10":"T85",
+    "descricao_cid10":"COMPLICAÇÕES DE OUTROS DISPOSITIVOS PROTÉTICOS, IMPLANTES E ENXERTOS INTERNOS"
+  },
+  {
+    "codigo_ciap2":"A90",
+    "descricao_ciap2":"MALFORMAÇÃO CONGÊNITA NE\/MÚLTIPLAS",
+    "codigo_cid10":"Q89",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"A91",
+    "descricao_ciap2":"INVESTIGAÇÃO COM RESULTADO ANORMAL NE",
+    "codigo_cid10":"R89",
+    "descricao_cid10":"ACHADOS ANORMAIS DE MATERIAL PROVENIENTE DE OUTROS ÓRGÃOS, APARELHOS, SISTEMAS E TECIDOS"
+  },
+  {
+    "codigo_ciap2":"A92",
+    "descricao_ciap2":"ALERGIA\/REAÇÃO ALÉRGICA NE",
+    "codigo_cid10":"T784",
+    "descricao_cid10":"ALERGIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"A93",
+    "descricao_ciap2":"RECÉM NASCIDO PREMATURO",
+    "codigo_cid10":"P073",
+    "descricao_cid10":"OUTROS RECÉM-NASCIDOS DE PRÉ-TERMO"
+  },
+  {
+    "codigo_ciap2":"A94",
+    "descricao_ciap2":"MORBIDADE PERINATAL, OUTRA",
+    "codigo_cid10":"P96",
+    "descricao_cid10":"OUTRAS AFECÇÕES ORIGINADAS NO PERÍODO PERINATAL"
+  },
+  {
+    "codigo_ciap2":"A95",
+    "descricao_ciap2":"MORTALIDADE PERINATAL",
+    "codigo_cid10":"P95",
+    "descricao_cid10":"MORTE FETAL DE CAUSA NAO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"A96",
+    "descricao_ciap2":"MORTE",
+    "codigo_cid10":"R99",
+    "descricao_cid10":"OUTRAS CAUSAS MAL DEFINIDAS E AS NÃO ESPECIFICADAS DE MORTALIDADE"
+  },
+  {
+    "codigo_ciap2":"A97",
+    "descricao_ciap2":"SEM DOENÇA",
+    "codigo_cid10":"Z029",
+    "descricao_cid10":"EXAME NÃO ESPECIFICADO COM FINALIDADES ADMINISTRATIVAS"
+  },
+  {
+    "codigo_ciap2":"A98",
+    "descricao_ciap2":"MEDICINA PREVENTIVA\/MANUTENÇÃO DA SAÚDE",
+    "codigo_cid10":"Z01",
+    "descricao_cid10":"OUTROS EXAMES E INVESTIGAÇÕES ESPECIAIS DE PESSOAS SEM QUEIXA OU DIAGNÓSTICO RELATADO"
+  },
+  {
+    "codigo_ciap2":"A99",
+    "descricao_ciap2":"OUTRAS DOENÇAS GERAIS NE",
+    "codigo_cid10":"R69",
+    "descricao_cid10":"CAUSAS DESCONHECIDAS E NÃO ESPECIFICADAS DE MORBIDADE"
+  },
+  {
+    "codigo_ciap2":"B02",
+    "descricao_ciap2":"GÂNGLIO LINFÁTICO AUMENTADO\/DOLOROSO",
+    "codigo_cid10":"R59",
+    "descricao_cid10":"AUMENTO DE VOLUME DOS GÂNGLIOS LINFÁTICOS"
+  },
+  {
+    "codigo_ciap2":"B04",
+    "descricao_ciap2":"SINAIS\/SINTOMAS SANGUE",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"B25",
+    "descricao_ciap2":"MEDO DE VIH\/ HIV\/SIDA\/ AIDS",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"B26",
+    "descricao_ciap2":"MEDO DE CÂNCER NO SANGUE\/LINFÁTICO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"B27",
+    "descricao_ciap2":"MEDO DE OUTRAS DOENÇAS DO SANGUE \/VASOS LINFÁTICOS",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"B28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"B29",
+    "descricao_ciap2":"OUTROS SINAIS\/ SINTOMAS DO SANGUE\/ SISTEMA LINFÁTICO\/ BAÇO NE",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"B70",
+    "descricao_ciap2":"LINFADENITE AGUDA",
+    "codigo_cid10":"L04",
+    "descricao_cid10":"LINFADENITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"B71",
+    "descricao_ciap2":"LINFADENITE CRÓNICA NE",
+    "codigo_cid10":"I88",
+    "descricao_cid10":"LINFADENITE INESPECÍFICA"
+  },
+  {
+    "codigo_ciap2":"B72",
+    "descricao_ciap2":"DOENÇA DE HODGKIN\/LINFOMAS",
+    "codigo_cid10":"C81",
+    "descricao_cid10":"DOENÇA DE HODGKIN"
+  },
+  {
+    "codigo_ciap2":"B73",
+    "descricao_ciap2":"LEUCEMIA",
+    "codigo_cid10":"C95",
+    "descricao_cid10":"LEUCEMIA DE TIPO CELULAR NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"B74",
+    "descricao_ciap2":"OUTRA NEOPLASIA MALIGNA NO SANGUE",
+    "codigo_cid10":"C96",
+    "descricao_cid10":"OUTRAS NEOPLASIAS MALIGNAS E AS NÃO ESPECIFICADAS DOS TECIDOS LINFÁTICO, HEMATOPOÉTICO E TECIDOS CORRELATOS"
+  },
+  {
+    "codigo_ciap2":"B75",
+    "descricao_ciap2":"NEOPLASIA BENIGNA NE",
+    "codigo_cid10":"D47",
+    "descricao_cid10":"OUTRAS NEOPLASIAS DE COMPORTAMENTO INCERTO OU DESCONHECIDO DOS TECIDOS LINFÁTICO, HEMATOPOÉTICO E TECIDOS CORRELATOS"
+  },
+  {
+    "codigo_ciap2":"B76",
+    "descricao_ciap2":"ROTURA TRAUMÁTICA DO BAÇO",
+    "codigo_cid10":"S360",
+    "descricao_cid10":"TRAUMATISMO DO BAÇO"
+  },
+  {
+    "codigo_ciap2":"B77",
+    "descricao_ciap2":"OUTRAS LESÕES TRAUMÁTICAS DO SANGUE\/LINFA\/BAÇO",
+    "codigo_cid10":"T14",
+    "descricao_cid10":"TRAUMATISMO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"B78",
+    "descricao_ciap2":"ANEMIA HEMOLÍTICA HEREDITÁRIA",
+    "codigo_cid10":"D58",
+    "descricao_cid10":"OUTRAS ANEMIAS HEMOLÍTICAS HEREDITÁRIAS"
+  },
+  {
+    "codigo_ciap2":"B79",
+    "descricao_ciap2":"OUTRA MALFORMAÇÃO CONGÉNITA DO SANGUE\/LINFÁTICA",
+    "codigo_cid10":"Q892",
+    "descricao_cid10":"MALFORMAÇÕES CONGÊNITAS DE OUTRAS GLÂNDULAS ENDÓCRINAS"
+  },
+  {
+    "codigo_ciap2":"B80",
+    "descricao_ciap2":"ANEMIA POR DEFICIÊNCIA FERRO",
+    "codigo_cid10":"D50",
+    "descricao_cid10":"ANEMIA POR DEFICIÊNCIA DE FERRO"
+  },
+  {
+    "codigo_ciap2":"B81",
+    "descricao_ciap2":"ANEMIA PERNICIOSA\/DEFICIÊNCIA DE FOLATOS",
+    "codigo_cid10":"D539",
+    "descricao_cid10":"ANEMIA NUTRICIONAL NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"B82",
+    "descricao_ciap2":"OUTRAS ANEMIAS NE",
+    "codigo_cid10":"D64",
+    "descricao_cid10":"OUTRAS ANEMIAS"
+  },
+  {
+    "codigo_ciap2":"B83",
+    "descricao_ciap2":"PÚRPURA\/DEFEITOS DE COAGULAÇÃO",
+    "codigo_cid10":"D69",
+    "descricao_cid10":"PÚRPURA E OUTRAS AFECÇÕES HEMORRÁGICAS"
+  },
+  {
+    "codigo_ciap2":"B84",
+    "descricao_ciap2":"GLÓBULOS BRANCOS ANORMAIS",
+    "codigo_cid10":"R72",
+    "descricao_cid10":"ANORMALIDADE DOS LEUCÓCITOS NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"B87",
+    "descricao_ciap2":"ESPLENOMEGALIA",
+    "codigo_cid10":"R161",
+    "descricao_cid10":"ESPLENOMEGALIA NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"B90",
+    "descricao_ciap2":"INFECÇÃO POR VIH\/ HIV\/SIDA\/ AIDS",
+    "codigo_cid10":"B24",
+    "descricao_cid10":"DOENÇA PELO VÍRUS DA IMUNODEFICIÊNCIA HUMANA [HIV] NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"B99",
+    "descricao_ciap2":"OUTRA DOENÇA DO SANGUE\/LINFÁTICOS\/BAÇO",
+    "codigo_cid10":"D75",
+    "descricao_cid10":"OUTRAS DOENÇAS DO SANGUE E DOS ÓRGÃOS HEMATOPOÉTICOS"
+  },
+  {
+    "codigo_ciap2":"D01",
+    "descricao_ciap2":"DOR ABDOMINAL GENERALIZADA\/CÓLICAS",
+    "codigo_cid10":"R10",
+    "descricao_cid10":"DOR ABDOMINAL E PÉLVICA"
+  },
+  {
+    "codigo_ciap2":"D02",
+    "descricao_ciap2":"DORES ABDOMINAIS, EPIGÁSTRICAS",
+    "codigo_cid10":"R101",
+    "descricao_cid10":"DOR LOCALIZADA NO ABDOME SUPERIOR"
+  },
+  {
+    "codigo_ciap2":"D03",
+    "descricao_ciap2":"AZIA\/ QUEIMAÇÃO",
+    "codigo_cid10":"R12",
+    "descricao_cid10":"PIROSE"
+  },
+  {
+    "codigo_ciap2":"D04",
+    "descricao_ciap2":"DOR ANAL\/RETAL",
+    "codigo_cid10":"R102",
+    "descricao_cid10":"DOR PÉLVICA E PERINEAL"
+  },
+  {
+    "codigo_ciap2":"D05",
+    "descricao_ciap2":"IRRITAÇÃO PERIANAL",
+    "codigo_cid10":"L290",
+    "descricao_cid10":"PRURIDO ANAL"
+  },
+  {
+    "codigo_ciap2":"D06",
+    "descricao_ciap2":"OUTRAS DORES ABDOMINAIS LOCALIZADAS",
+    "codigo_cid10":"R103",
+    "descricao_cid10":"DOR LOCALIZADA EM OUTRAS PARTES DO ABDOME INFERIOR"
+  },
+  {
+    "codigo_ciap2":"D07",
+    "descricao_ciap2":"DISPEPSIA\/INDIGESTÃO",
+    "codigo_cid10":"K30",
+    "descricao_cid10":"DISPEPSIA"
+  },
+  {
+    "codigo_ciap2":"D08",
+    "descricao_ciap2":"FLATULÊNCIA \/GASES\/ERUCTAÇÕES",
+    "codigo_cid10":"R14",
+    "descricao_cid10":"FLATULÊNCIA E AFECÇÕES CORRELATAS"
+  },
+  {
+    "codigo_ciap2":"D09",
+    "descricao_ciap2":"NÁUSEA",
+    "codigo_cid10":"R11",
+    "descricao_cid10":"NÁUSEA E VÔMITOS"
+  },
+  {
+    "codigo_ciap2":"D10",
+    "descricao_ciap2":"VÔMITO",
+    "codigo_cid10":"R11",
+    "descricao_cid10":"NÁUSEA E VÔMITOS"
+  },
+  {
+    "codigo_ciap2":"D11",
+    "descricao_ciap2":"DIARREIA",
+    "codigo_cid10":"K591",
+    "descricao_cid10":"DIARRÉIA FUNCIONAL"
+  },
+  {
+    "codigo_ciap2":"D12",
+    "descricao_ciap2":"OBSTIPAÇÃO",
+    "codigo_cid10":"K590",
+    "descricao_cid10":"CONSTIPAÇÃO"
+  },
+  {
+    "codigo_ciap2":"D13",
+    "descricao_ciap2":"ICTERÍCIA",
+    "codigo_cid10":"R17",
+    "descricao_cid10":"ICTERÍCIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"D14",
+    "descricao_ciap2":"HEMATÊMESE\/VÔMITO SANGUE",
+    "codigo_cid10":"K920",
+    "descricao_cid10":"HEMATÊMESE"
+  },
+  {
+    "codigo_ciap2":"D15",
+    "descricao_ciap2":"MELENA",
+    "codigo_cid10":"K921",
+    "descricao_cid10":"MELENA"
+  },
+  {
+    "codigo_ciap2":"D16",
+    "descricao_ciap2":"HEMORRAGIA RETAL",
+    "codigo_cid10":"K625",
+    "descricao_cid10":"HEMORRAGIA DO ÂNUS E DO RETO"
+  },
+  {
+    "codigo_ciap2":"D17",
+    "descricao_ciap2":"INCONTINÊNCIA FECAL",
+    "codigo_cid10":"R15",
+    "descricao_cid10":"INCONTINÊNCIA FECAL"
+  },
+  {
+    "codigo_ciap2":"D18",
+    "descricao_ciap2":"ALTERAÇÕES NAS FEZES\/MOV. INTESTINAIS",
+    "codigo_cid10":"R194",
+    "descricao_cid10":"ALTERAÇÃO DO HÁBITO INTESTINAL"
+  },
+  {
+    "codigo_ciap2":"D19",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS DENTES\/GENGIVAS",
+    "codigo_cid10":"K08",
+    "descricao_cid10":"OUTROS TRANSTORNOS DOS DENTES E DE SUAS ESTRUTURAS DE SUSTENTAÇÃO"
+  },
+  {
+    "codigo_ciap2":"D20",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA BOCA\/LÍNGUA\/LÁBIOS",
+    "codigo_cid10":"R198",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS AO APARELHO DIGESTIVO E AO ABDOME"
+  },
+  {
+    "codigo_ciap2":"D21",
+    "descricao_ciap2":"PROBLEMAS DE DEGLUTIÇÃO",
+    "codigo_cid10":"R13",
+    "descricao_cid10":"DISFAGIA"
+  },
+  {
+    "codigo_ciap2":"D23",
+    "descricao_ciap2":"HEPATOMEGALIA",
+    "codigo_cid10":"R162",
+    "descricao_cid10":"HEPATOMEGALIA COM ESPLENOMEGALIA NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"D24",
+    "descricao_ciap2":"MASSA ABDOMINAL NE",
+    "codigo_cid10":"R190",
+    "descricao_cid10":"MASSA, TUMORAÇÃO OU TUMEFAÇÃO INTRA-ABDOMINAL E PÉLVICA"
+  },
+  {
+    "codigo_ciap2":"D25",
+    "descricao_ciap2":"DISTENSÃO ABDOMINAL",
+    "codigo_cid10":"R190",
+    "descricao_cid10":"MASSA, TUMORAÇÃO OU TUMEFAÇÃO INTRA-ABDOMINAL E PÉLVICA"
+  },
+  {
+    "codigo_ciap2":"D26",
+    "descricao_ciap2":"MEDO DE CÂNCER NO APARELHO DIGESTIVO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"D27",
+    "descricao_ciap2":"MEDO DE OUTRAS DOENÇAS APARELHO DIGESTIVO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"D28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"D29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS DIGESTIVOS",
+    "codigo_cid10":"R198",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS AO APARELHO DIGESTIVO E AO ABDOME"
+  },
+  {
+    "codigo_ciap2":"D70",
+    "descricao_ciap2":"INFECÇÃO GASTROINTESTINAL",
+    "codigo_cid10":"A04",
+    "descricao_cid10":"OUTRAS INFECÇÕES INTESTINAIS BACTERIANAS"
+  },
+  {
+    "codigo_ciap2":"D71",
+    "descricao_ciap2":"CAXUMBA\/PAROTIDITE EPIDÊMICA",
+    "codigo_cid10":"B26",
+    "descricao_cid10":"CAXUMBA [PAROTIDITE EPIDÊMICA]"
+  },
+  {
+    "codigo_ciap2":"D72",
+    "descricao_ciap2":"HEPATITE VIRAL",
+    "codigo_cid10":"B19",
+    "descricao_cid10":"HEPATITE VIRAL NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"D73",
+    "descricao_ciap2":"GASTROENTERITE, PRESUMÍVEL INFECÇÃO",
+    "codigo_cid10":"A09",
+    "descricao_cid10":"DIARRÉIA E GASTROENTERITE DE ORIGEM INFECCIOSA PRESUMÍVEL"
+  },
+  {
+    "codigo_ciap2":"D74",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO ESTÔMAGO",
+    "codigo_cid10":"C16",
+    "descricao_cid10":"NEOPLASIA MALIGNA DO ESTÔMAGO"
+  },
+  {
+    "codigo_ciap2":"D75",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO CÓLON\/RETO",
+    "codigo_cid10":"C18",
+    "descricao_cid10":"NEOPLASIA MALIGNA DO CÓLON"
+  },
+  {
+    "codigo_ciap2":"D76",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO PÂNCREAS",
+    "codigo_cid10":"C25",
+    "descricao_cid10":"NEOPLASIA MALIGNA DO PÂNCREAS"
+  },
+  {
+    "codigo_ciap2":"D77",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO APARELHO DIGESTIVO NE",
+    "codigo_cid10":"C26",
+    "descricao_cid10":"NEOPLASIA MALIGNA DE OUTROS ÓRGÃOS DIGESTIVOS E DE LOCALIZAÇÕES MAL DEFINIDAS NO APARELHO DIGESTIVO"
+  },
+  {
+    "codigo_ciap2":"D78",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DO APARELHO DIGESTIVO\/INCERTA",
+    "codigo_cid10":"D13",
+    "descricao_cid10":"NEOPLASIA BENIGNA DE OUTRAS PARTES E DE PARTES MAL DEFINIDAS DO APARELHO DIGESTIVO"
+  },
+  {
+    "codigo_ciap2":"D79",
+    "descricao_ciap2":"CORPO ESTRANHO NO APARELHO DIGESTIVO",
+    "codigo_cid10":"T18",
+    "descricao_cid10":"CORPO ESTRANHO NO APARELHO DIGESTIVO"
+  },
+  {
+    "codigo_ciap2":"D80",
+    "descricao_ciap2":"OUTRAS LESÕES TRAUMÁTICAS",
+    "codigo_cid10":"S36",
+    "descricao_cid10":"TRAUMATISMO DE ÓRGÃOS INTRA-ABDOMINAIS"
+  },
+  {
+    "codigo_ciap2":"D81",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS DO APARELHO DIGESTIVO",
+    "codigo_cid10":"Q45",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO APARELHO DIGESTIVO"
+  },
+  {
+    "codigo_ciap2":"D82",
+    "descricao_ciap2":"DOENÇA DOS DENTES\/GENGIVAS",
+    "codigo_cid10":"K08",
+    "descricao_cid10":"OUTROS TRANSTORNOS DOS DENTES E DE SUAS ESTRUTURAS DE SUSTENTAÇÃO"
+  },
+  {
+    "codigo_ciap2":"D83",
+    "descricao_ciap2":"DOENÇA DA BOCA\/LÍNGUA\/LÁBIOS",
+    "codigo_cid10":"K137",
+    "descricao_cid10":"OUTRAS LESÕES E AS NÃO ESPECIFICADAS DA MUCOSA ORAL"
+  },
+  {
+    "codigo_ciap2":"D84",
+    "descricao_ciap2":"DOENÇA DO ESÔFAGO",
+    "codigo_cid10":"K22",
+    "descricao_cid10":"OUTRAS DOENÇAS DO ESÔFAGO"
+  },
+  {
+    "codigo_ciap2":"D85",
+    "descricao_ciap2":"ÚLCERA DO DUODENO",
+    "codigo_cid10":"K26",
+    "descricao_cid10":"ÚLCERA DUODENAL"
+  },
+  {
+    "codigo_ciap2":"D86",
+    "descricao_ciap2":"ÚLCERA PÉPTICA, OUTRA",
+    "codigo_cid10":"K27",
+    "descricao_cid10":"ÚLCERA PÉPTICA DE LOCALIZAÇÃO NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"D87",
+    "descricao_ciap2":"ALTERAÇÕES FUNCIONAIS ESTÔMAGO",
+    "codigo_cid10":"K29",
+    "descricao_cid10":"GASTRITE E DUODENITE"
+  },
+  {
+    "codigo_ciap2":"D88",
+    "descricao_ciap2":"APENDICITE",
+    "codigo_cid10":"K37",
+    "descricao_cid10":"OUTRAS ESPECIFICACOES"
+  },
+  {
+    "codigo_ciap2":"D89",
+    "descricao_ciap2":"HÉRNIA INGUINAL",
+    "codigo_cid10":"K40",
+    "descricao_cid10":"HÉRNIA INGUINAL"
+  },
+  {
+    "codigo_ciap2":"D90",
+    "descricao_ciap2":"HÉRNIA DE HIATO \/DIAFRAGMÁTICA",
+    "codigo_cid10":"K44",
+    "descricao_cid10":"HÉRNIA DIAFRAGMÁTICA"
+  },
+  {
+    "codigo_ciap2":"D91",
+    "descricao_ciap2":"HÉRNIA ABDOMINAL, OUTRAS",
+    "codigo_cid10":"K46",
+    "descricao_cid10":"HÉRNIA ABDOMINAL NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"D92",
+    "descricao_ciap2":"DOENÇA DIVERTICULAR INTESTINAL",
+    "codigo_cid10":"K57",
+    "descricao_cid10":"DOENÇA DIVERTICULAR DO INTESTINO"
+  },
+  {
+    "codigo_ciap2":"D93",
+    "descricao_ciap2":"SÍNDROME DO CÓLON IRRITÁVEL",
+    "codigo_cid10":"K58",
+    "descricao_cid10":"SÍNDROME DO CÓLON IRRITÁVEL"
+  },
+  {
+    "codigo_ciap2":"D94",
+    "descricao_ciap2":"ENTERITE CRÔNICA\/COLITE ULCEROSA",
+    "codigo_cid10":"K52",
+    "descricao_cid10":"OUTRAS GASTROENTERITES E COLITES NÃO-INFECCIOSAS"
+  },
+  {
+    "codigo_ciap2":"D95",
+    "descricao_ciap2":"FISSURA ANAL \/ ABCESSO PERIANAL",
+    "codigo_cid10":"K639",
+    "descricao_cid10":"DOENÇA DO INTESTINO, SEM OUTRA ESPECIFICAÇÃO"
+  },
+  {
+    "codigo_ciap2":"D96",
+    "descricao_ciap2":"LOMBRIGAS \/OUTROS PARASITAS",
+    "codigo_cid10":"B83",
+    "descricao_cid10":"OUTRAS HELMINTÍASES"
+  },
+  {
+    "codigo_ciap2":"D97",
+    "descricao_ciap2":"DOENÇAS DO FÍGADO \/NE",
+    "codigo_cid10":"K76",
+    "descricao_cid10":"OUTRAS DOENÇAS DO FÍGADO"
+  },
+  {
+    "codigo_ciap2":"D98",
+    "descricao_ciap2":"COLECISTITE, COLELITÍASE",
+    "codigo_cid10":"K83",
+    "descricao_cid10":"OUTRAS DOENÇAS DAS VIAS BILIARES"
+  },
+  {
+    "codigo_ciap2":"D99",
+    "descricao_ciap2":"OUTRA DOENÇA DO APARELHO DIGESTIVO",
+    "codigo_cid10":"K92",
+    "descricao_cid10":"OUTRAS DOENÇAS DO APARELHO DIGESTIVO"
+  },
+  {
+    "codigo_ciap2":"F01",
+    "descricao_ciap2":"DOR NO OLHO",
+    "codigo_cid10":"H571",
+    "descricao_cid10":"DOR OCULAR"
+  },
+  {
+    "codigo_ciap2":"F02",
+    "descricao_ciap2":"OLHO VERMELHO",
+    "codigo_cid10":"H578",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"F03",
+    "descricao_ciap2":"SECREÇÃO OCULAR",
+    "codigo_cid10":"H042",
+    "descricao_cid10":"EPÍFORA"
+  },
+  {
+    "codigo_ciap2":"F04",
+    "descricao_ciap2":"MOSCAS VOLANTES\/PONTOS LUMINOSOS\/ESCOTOMAS\/ MANCHAS",
+    "codigo_cid10":"H531",
+    "descricao_cid10":"DISTÚRBIOS VISUAIS SUBJETIVOS"
+  },
+  {
+    "codigo_ciap2":"F05",
+    "descricao_ciap2":"OUTRAS PERTURBAÇÕES VISUAIS",
+    "codigo_cid10":"H53",
+    "descricao_cid10":"DISTÚRBIOS VISUAIS"
+  },
+  {
+    "codigo_ciap2":"F13",
+    "descricao_ciap2":"SENSAÇÕES OCULARES ANORMAIS",
+    "codigo_cid10":"H578",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"F14",
+    "descricao_ciap2":"MOVIMENTOS OCULARES ANORMAIS",
+    "codigo_cid10":"H55",
+    "descricao_cid10":"OUTROS MOVIMENTOS IRREGULARES DO OLHO"
+  },
+  {
+    "codigo_ciap2":"F15",
+    "descricao_ciap2":"APARÊNCIA ANORMAL NOS OLHOS",
+    "codigo_cid10":"H578",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"F16",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DAS PÁLPEBRAS",
+    "codigo_cid10":"H02",
+    "descricao_cid10":"OUTROS TRANSTORNOS DA PÁLPEBRA"
+  },
+  {
+    "codigo_ciap2":"F17",
+    "descricao_ciap2":"SINAIS\/SINTOMAS RELACIONADOS A ÓCULOS",
+    "codigo_cid10":"Z460",
+    "descricao_cid10":"COLOCAÇÃO E AJUSTAMENTO DE ÓCULOS E LENTES DE CONTATO"
+  },
+  {
+    "codigo_ciap2":"F18",
+    "descricao_ciap2":"SINAIS\/SINTOMAS RELACIONADOS A LENTES DE CONTATO",
+    "codigo_cid10":"Z460",
+    "descricao_cid10":"COLOCAÇÃO E AJUSTAMENTO DE ÓCULOS E LENTES DE CONTATO"
+  },
+  {
+    "codigo_ciap2":"F27",
+    "descricao_ciap2":"MEDO DE DOENÇA OCULAR",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"F28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"F29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS OCULARES",
+    "codigo_cid10":"H57",
+    "descricao_cid10":"OUTROS TRANSTORNOS DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"F70",
+    "descricao_ciap2":"CONJUNTIVITE INFECCIOSA",
+    "codigo_cid10":"H10",
+    "descricao_cid10":"CONJUNTIVITE"
+  },
+  {
+    "codigo_ciap2":"F71",
+    "descricao_ciap2":"CONJUNTIVITE ALÉRGICA",
+    "codigo_cid10":"H101",
+    "descricao_cid10":"CONJUNTIVITE AGUDA ATÓPICA"
+  },
+  {
+    "codigo_ciap2":"F72",
+    "descricao_ciap2":"BLEFARITE\/HORDÉOLO\/CALÁZIO",
+    "codigo_cid10":"H01",
+    "descricao_cid10":"OUTRAS INFLAMAÇÕES DA PÁLPEBRA"
+  },
+  {
+    "codigo_ciap2":"F73",
+    "descricao_ciap2":"OUTRAS INFECÇÕES\/INFLAMAÇÕES OCULARES",
+    "codigo_cid10":"H579",
+    "descricao_cid10":"TRANSTORNO NÃO ESPECIFICADO DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"F74",
+    "descricao_ciap2":"NEOPLASIA DO OLHO\/ANEXOS",
+    "codigo_cid10":"D487",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DE OUTRAS LOCALIZAÇÕES ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"F75",
+    "descricao_ciap2":"CONTUSÃO\/HEMORRAGIA OCULAR",
+    "codigo_cid10":"S001",
+    "descricao_cid10":"CONTUSÃO DA PÁLPEBRA E DA REGIÃO PERIOCULAR"
+  },
+  {
+    "codigo_ciap2":"F76",
+    "descricao_ciap2":"CORPO ESTRANHO OCULAR",
+    "codigo_cid10":"T15",
+    "descricao_cid10":"CORPO ESTRANHO NA PARTE EXTERNA DO OLHO"
+  },
+  {
+    "codigo_ciap2":"F79",
+    "descricao_ciap2":"OUTRAS LESÕES TRAUMÁTICAS OCULARES",
+    "codigo_cid10":"S05",
+    "descricao_cid10":"TRAUMATISMO DO OLHO E DA ÓRBITA OCULAR"
+  },
+  {
+    "codigo_ciap2":"F80",
+    "descricao_ciap2":"OBSTRUÇÃO CANAL LACRIMAL DA CRIANÇA",
+    "codigo_cid10":"Q105",
+    "descricao_cid10":"ESTENOSE OU ESTREITAMENTO CONGÊNITO DO CANAL LACRIMAL"
+  },
+  {
+    "codigo_ciap2":"F81",
+    "descricao_ciap2":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO OLHO",
+    "codigo_cid10":"Q15",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO OLHO"
+  },
+  {
+    "codigo_ciap2":"F82",
+    "descricao_ciap2":"DESCOLAMENTO DA RETINA",
+    "codigo_cid10":"H332",
+    "descricao_cid10":"DESCOLAMENTO SEROSO DA RETINA"
+  },
+  {
+    "codigo_ciap2":"F83",
+    "descricao_ciap2":"RETINOPATIA",
+    "codigo_cid10":"H350",
+    "descricao_cid10":"RETINOPATIAS DE FUNDO E ALTERAÇÕES VASCULARES DA RETINA"
+  },
+  {
+    "codigo_ciap2":"F84",
+    "descricao_ciap2":"DEGENERAÇÃO MACULAR",
+    "codigo_cid10":"H353",
+    "descricao_cid10":"DEGENERAÇÃO DA MÁCULA E DO PÓLO POSTERIOR"
+  },
+  {
+    "codigo_ciap2":"F85",
+    "descricao_ciap2":"ÚLCERA DA CÓRNEA",
+    "codigo_cid10":"H160",
+    "descricao_cid10":"ÚLCERA DE CÓRNEA"
+  },
+  {
+    "codigo_ciap2":"F86",
+    "descricao_ciap2":"TRACOMA",
+    "codigo_cid10":"A71",
+    "descricao_cid10":"TRACOMA"
+  },
+  {
+    "codigo_ciap2":"F91",
+    "descricao_ciap2":"ERRO DE REFRAÇÃO",
+    "codigo_cid10":"H527",
+    "descricao_cid10":"TRANSTORNO NÃO ESPECIFICADO DA REFRAÇÃO"
+  },
+  {
+    "codigo_ciap2":"F92",
+    "descricao_ciap2":"CATARATA",
+    "codigo_cid10":"H26",
+    "descricao_cid10":"OUTRAS CATARATAS"
+  },
+  {
+    "codigo_ciap2":"F93",
+    "descricao_ciap2":"GLAUCOMA",
+    "codigo_cid10":"H40",
+    "descricao_cid10":"GLAUCOMA"
+  },
+  {
+    "codigo_ciap2":"F94",
+    "descricao_ciap2":"CEGUEIRA",
+    "codigo_cid10":"H543",
+    "descricao_cid10":"PERDA NÃO QUALIFICADA DA VISÃO EM AMBOS OS OLHOS"
+  },
+  {
+    "codigo_ciap2":"F95",
+    "descricao_ciap2":"ESTRABISMO",
+    "codigo_cid10":"H50",
+    "descricao_cid10":"OUTROS ESTRABISMOS"
+  },
+  {
+    "codigo_ciap2":"F99",
+    "descricao_ciap2":"OUTRA DOENÇAS OCULARES\/ANEXOS",
+    "codigo_cid10":"H578",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OLHO E ANEXOS"
+  },
+  {
+    "codigo_ciap2":"H01",
+    "descricao_ciap2":"DOR DE OUVIDOS",
+    "codigo_cid10":"H920",
+    "descricao_cid10":"OTALGIA"
+  },
+  {
+    "codigo_ciap2":"H02",
+    "descricao_ciap2":"PROBLEMAS DE AUDIÇÃO",
+    "codigo_cid10":"H932",
+    "descricao_cid10":"OUTRAS PERCEPÇÕES AUDITIVAS ANORMAIS"
+  },
+  {
+    "codigo_ciap2":"H03",
+    "descricao_ciap2":"ACUFENO, ZUMBIDOS, RUÍDO, ASSOBIOS",
+    "codigo_cid10":"H931",
+    "descricao_cid10":"TINNITUS"
+  },
+  {
+    "codigo_ciap2":"H04",
+    "descricao_ciap2":"SECREÇÃO NO OUVIDO",
+    "codigo_cid10":"H921",
+    "descricao_cid10":"OTORRÉIA"
+  },
+  {
+    "codigo_ciap2":"H05",
+    "descricao_ciap2":"HEMORRAGIA NO OUVIDO",
+    "codigo_cid10":"H922",
+    "descricao_cid10":"OTORRAGIA"
+  },
+  {
+    "codigo_ciap2":"H13",
+    "descricao_ciap2":"SENSAÇÃO DE OUVIDO TAPADO",
+    "codigo_cid10":"H938",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OUVIDO"
+  },
+  {
+    "codigo_ciap2":"H15",
+    "descricao_ciap2":"PREOCUPAÇÃO COM A APARÊNCIA DAS ORELHAS",
+    "codigo_cid10":"R468",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS À APARÊNCIA E AO COMPORTAMENTO"
+  },
+  {
+    "codigo_ciap2":"H27",
+    "descricao_ciap2":"MEDO DE DOENÇA DO OUVIDO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"H28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"H29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS OUVIDO",
+    "codigo_cid10":"H93",
+    "descricao_cid10":"OUTROS TRANSTORNOS DO OUVIDO NÃO CLASSIFICADOS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"H70",
+    "descricao_ciap2":"OTITE EXTERNA",
+    "codigo_cid10":"H60",
+    "descricao_cid10":"OTITE EXTERNA"
+  },
+  {
+    "codigo_ciap2":"H71",
+    "descricao_ciap2":"OTITE MÉDIA AGUDA\/MIRINGITE",
+    "codigo_cid10":"H660",
+    "descricao_cid10":"OTITE MÉDIA AGUDA SUPURATIVA"
+  },
+  {
+    "codigo_ciap2":"H72",
+    "descricao_ciap2":"OTITE MÉDIA SEROSA",
+    "codigo_cid10":"H65",
+    "descricao_cid10":"OTITE MÉDIA NÃO-SUPURATIVA"
+  },
+  {
+    "codigo_ciap2":"H73",
+    "descricao_ciap2":"INFECÇÃO DA TROMPA DE EUSTÁQUIO",
+    "codigo_cid10":"H681",
+    "descricao_cid10":"OBSTRUÇÃO DA TROMPA DE EUSTÁQUIO"
+  },
+  {
+    "codigo_ciap2":"H74",
+    "descricao_ciap2":"OTITE MÉDIA CRÔNICA",
+    "codigo_cid10":"H663",
+    "descricao_cid10":"OUTRAS OTITES MÉDIAS SUPURATIVAS CRÔNICAS"
+  },
+  {
+    "codigo_ciap2":"H75",
+    "descricao_ciap2":"NEOPLASIA DO OUVIDO",
+    "codigo_cid10":"D385",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DE OUTROS ÓRGÃOS RESPIRATÓRIOS"
+  },
+  {
+    "codigo_ciap2":"H76",
+    "descricao_ciap2":"CORPO ESTRANHO DO OUVIDO",
+    "codigo_cid10":"T16",
+    "descricao_cid10":"CORPO ESTRANHO NO OUVIDO"
+  },
+  {
+    "codigo_ciap2":"H77",
+    "descricao_ciap2":"PERFURAÇÃO DO TÍMPANO",
+    "codigo_cid10":"H72",
+    "descricao_cid10":"PERFURAÇÃO DA MEMBRANA DO TÍMPANO"
+  },
+  {
+    "codigo_ciap2":"H78",
+    "descricao_ciap2":"TRAUMATISMO SUPERFICIAL DO OUVIDO",
+    "codigo_cid10":"S004",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DO OUVIDO"
+  },
+  {
+    "codigo_ciap2":"H79",
+    "descricao_ciap2":"OUTROS TRAUMATISMOS DO OUVIDO",
+    "codigo_cid10":"S09",
+    "descricao_cid10":"OUTROS TRAUMATISMOS DA CABEÇA E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"H80",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS DO OUVIDO",
+    "codigo_cid10":"Q17",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DA ORELHA"
+  },
+  {
+    "codigo_ciap2":"H81",
+    "descricao_ciap2":"CERÚMEN NO OUVIDO EM EXCESSO",
+    "codigo_cid10":"H612",
+    "descricao_cid10":"CERUME IMPACTADO"
+  },
+  {
+    "codigo_ciap2":"H82",
+    "descricao_ciap2":"SÍNDROME VERTIGINOSA",
+    "codigo_cid10":"H81",
+    "descricao_cid10":"TRANSTORNOS DA FUNÇÃO VESTIBULAR"
+  },
+  {
+    "codigo_ciap2":"H83",
+    "descricao_ciap2":"OTOESCLEROSE",
+    "codigo_cid10":"H80",
+    "descricao_cid10":"OTOSCLEROSE"
+  },
+  {
+    "codigo_ciap2":"H84",
+    "descricao_ciap2":"PRESBIACUSIA",
+    "codigo_cid10":"H911",
+    "descricao_cid10":"PRESBIACUSIA"
+  },
+  {
+    "codigo_ciap2":"H85",
+    "descricao_ciap2":"LESÃO ACÚSTICA",
+    "codigo_cid10":"H833",
+    "descricao_cid10":"EFEITOS DO RUÍDO SOBRE O OUVIDO INTERNO"
+  },
+  {
+    "codigo_ciap2":"H86",
+    "descricao_ciap2":"SURDEZ",
+    "codigo_cid10":"H91",
+    "descricao_cid10":"OUTRAS PERDAS DE AUDIÇÃO"
+  },
+  {
+    "codigo_ciap2":"H99",
+    "descricao_ciap2":"OUTRA DOENÇA DO OUVIDO\/MASTÓIDE",
+    "codigo_cid10":"H938",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO OUVIDO"
+  },
+  {
+    "codigo_ciap2":"K01",
+    "descricao_ciap2":"DOR ATRIBUÍDA AO CORAÇÃO",
+    "codigo_cid10":"R072",
+    "descricao_cid10":"DOR PRECORDIAL"
+  },
+  {
+    "codigo_ciap2":"K02",
+    "descricao_ciap2":"SENSAÇÃO DE PRESSÃO\/APERTO ATRIBUÍDA AO CORAÇÃO",
+    "codigo_cid10":"R072",
+    "descricao_cid10":"DOR PRECORDIAL"
+  },
+  {
+    "codigo_ciap2":"K03",
+    "descricao_ciap2":"DORES ATRIBUÍDAS AO APARELHO CIRCULATÓRIO NE",
+    "codigo_cid10":"R098",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS AOS APARELHOS CIRCULATÓRIO E RESPIRATÓRIO"
+  },
+  {
+    "codigo_ciap2":"K04",
+    "descricao_ciap2":"PALPITAÇÕES\/PERCEPÇÃO DOS BATIMENTOS CARDÍACOS",
+    "codigo_cid10":"R002",
+    "descricao_cid10":"PALPITAÇÕES"
+  },
+  {
+    "codigo_ciap2":"K05",
+    "descricao_ciap2":"OUTRAS IRREGULARIDADES DOS BATIMENTOS CARDÍACOS",
+    "codigo_cid10":"R008",
+    "descricao_cid10":"OUTRAS ANORMALIDADES E AS NÃO ESPECIFICADAS DO BATIMENTO CARDÍACO"
+  },
+  {
+    "codigo_ciap2":"K06",
+    "descricao_ciap2":"VEIAS PROEMINENTES",
+    "codigo_cid10":"I878",
+    "descricao_cid10":"OUTROS TRANSTORNOS VENOSOS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"K07",
+    "descricao_ciap2":"TORNOZELOS INCHADOS\/EDEMA",
+    "codigo_cid10":"R60",
+    "descricao_cid10":"EDEMA NÃO CLASSIFICADO EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"K22",
+    "descricao_ciap2":"FATOR DE RISCO PARA DOENÇA CARDIOVASCULAR",
+    "codigo_cid10":"Z824",
+    "descricao_cid10":"HISTÓRIA FAMILIAR DE DOENÇA ISQUÊMICA DO CORAÇÃO E OUTRAS DOENÇAS DO APARELHO CIRCULATÓRIO"
+  },
+  {
+    "codigo_ciap2":"K24",
+    "descricao_ciap2":"MEDO DE DOENÇA CARDÍACA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"K25",
+    "descricao_ciap2":"MEDO DE HIPERTENSÃO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"K27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA CARDIOVASCULAR",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"K28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"K29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS CARDIOVASCULARES",
+    "codigo_cid10":"R098",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS AOS APARELHOS CIRCULATÓRIO E RESPIRATÓRIO"
+  },
+  {
+    "codigo_ciap2":"K70",
+    "descricao_ciap2":"DOENÇA INFECCIOSA DO APARELHO CIRCULATÓRIO",
+    "codigo_cid10":"I40",
+    "descricao_cid10":"MIOCARDITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"K71",
+    "descricao_ciap2":"FEBRE REUMÁTICA\/CARDIOPATIA",
+    "codigo_cid10":"I09",
+    "descricao_cid10":"OUTRAS DOENÇAS REUMÁTICAS DO CORAÇÃO"
+  },
+  {
+    "codigo_ciap2":"K72",
+    "descricao_ciap2":"NEOPLASIA DO APARELHO CIRCULATÓRIO",
+    "codigo_cid10":"D487",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DE OUTRAS LOCALIZAÇÕES ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"K73",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS DO APARELHO CIRCULATÓRIO",
+    "codigo_cid10":"Q28",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO APARELHO CIRCULATÓRIO"
+  },
+  {
+    "codigo_ciap2":"K74",
+    "descricao_ciap2":"DOENÇA CARDÍACA ISQUÊMICA COM ANGINA",
+    "codigo_cid10":"I20",
+    "descricao_cid10":"ANGINA PECTORIS"
+  },
+  {
+    "codigo_ciap2":"K75",
+    "descricao_ciap2":"INFARTO OU ENFARTE AGUDO MIOCÁRDIO",
+    "codigo_cid10":"I21",
+    "descricao_cid10":"INFARTO AGUDO DO MIOCÁRDIO"
+  },
+  {
+    "codigo_ciap2":"K76",
+    "descricao_ciap2":"DOENÇA CARDÍACA ISQUÊMICA SEM ANGINA",
+    "codigo_cid10":"I25",
+    "descricao_cid10":"DOENÇA ISQUÊMICA CRÔNICA DO CORAÇÃO"
+  },
+  {
+    "codigo_ciap2":"K77",
+    "descricao_ciap2":"INSUFICIÊNCIA CARDÍACA",
+    "codigo_cid10":"I50",
+    "descricao_cid10":"INSUFICIÊNCIA CARDÍACA"
+  },
+  {
+    "codigo_ciap2":"K78",
+    "descricao_ciap2":"FIBRILAÇÃO\/FLUTTER AURICULAR\/ ATRIAL",
+    "codigo_cid10":"I48",
+    "descricao_cid10":"FLUTTER E FIBRILAÇÃO ATRIAL"
+  },
+  {
+    "codigo_ciap2":"K79",
+    "descricao_ciap2":"TAQUICARDIA PAROXÍSTICA",
+    "codigo_cid10":"I47",
+    "descricao_cid10":"TAQUICARDIA PAROXÍSTICA"
+  },
+  {
+    "codigo_ciap2":"K80",
+    "descricao_ciap2":"ARRITMIA CARDÍACA NE",
+    "codigo_cid10":"I49",
+    "descricao_cid10":"OUTRAS ARRITMIAS CARDÍACAS"
+  },
+  {
+    "codigo_ciap2":"K81",
+    "descricao_ciap2":"SOPRO CARDÍACO\/ARTERIAL NE",
+    "codigo_cid10":"R011",
+    "descricao_cid10":"SOPRO CARDÍACO, NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"K82",
+    "descricao_ciap2":"DOENÇA CARDIOPULMONAR",
+    "codigo_cid10":"I27",
+    "descricao_cid10":"OUTRAS FORMAS DE DOENÇA CARDÍACA PULMONAR"
+  },
+  {
+    "codigo_ciap2":"K83",
+    "descricao_ciap2":"DOENÇA VALVULAR CARDÍACA NE",
+    "codigo_cid10":"I089",
+    "descricao_cid10":"DOENÇA NÃO ESPECIFICADA DE MÚLTIPLAS VALVAS"
+  },
+  {
+    "codigo_ciap2":"K84",
+    "descricao_ciap2":"OUTRAS DOENÇAS CARDÍACAS",
+    "codigo_cid10":"I51",
+    "descricao_cid10":"COMPLICAÇÕES DE CARDIOPATIAS E DOENÇAS CARDÍACAS MAL DEFINIDAS"
+  },
+  {
+    "codigo_ciap2":"K85",
+    "descricao_ciap2":"PRESSÃO ARTERIAL ELEVADA",
+    "codigo_cid10":"R030",
+    "descricao_cid10":"VALOR ELEVADO DA PRESSÃO ARTERIAL SEM O DIAGNÓSTICO DE HIPERTENSÃO"
+  },
+  {
+    "codigo_ciap2":"K86",
+    "descricao_ciap2":"HIPERTENSÃO SEM COMPLICAÇÕES",
+    "codigo_cid10":"I10",
+    "descricao_cid10":"HIPERTENSÃO ESSENCIAL (PRIMÁRIA)"
+  },
+  {
+    "codigo_ciap2":"K87",
+    "descricao_ciap2":"HIPERTENSÃO COM COMPLICAÇÕES",
+    "codigo_cid10":"I13",
+    "descricao_cid10":"DOENÇA CARDÍACA E RENAL HIPERTENSIVA"
+  },
+  {
+    "codigo_ciap2":"K88",
+    "descricao_ciap2":"HIPOTENSÃO POSTURAL",
+    "codigo_cid10":"I951",
+    "descricao_cid10":"HIPOTENSÃO ORTOSTÁTICA"
+  },
+  {
+    "codigo_ciap2":"K89",
+    "descricao_ciap2":"ISQUEMIA\/ ACIDENTE CEREBRAL TRANSITÓRIA(O)",
+    "codigo_cid10":"G45",
+    "descricao_cid10":"ACIDENTES VASCULARES CEREBRAIS ISQUÊMICOS TRANSITÓRIOS E SÍNDROMES CORRELATAS"
+  },
+  {
+    "codigo_ciap2":"K90",
+    "descricao_ciap2":"TROMBOSE\/ACIDENTE VASCULAR CEREBRAL",
+    "codigo_cid10":"I64",
+    "descricao_cid10":"ACIDENTE VASCULAR CEREBRAL, NÃO ESPECIFICADO COMO HEMORRÁGICO OU ISQUÊMICO"
+  },
+  {
+    "codigo_ciap2":"K91",
+    "descricao_ciap2":"DOENÇA VASCULAR CEREBRAL",
+    "codigo_cid10":"I67",
+    "descricao_cid10":"OUTRAS DOENÇAS CEREBROVASCULARES"
+  },
+  {
+    "codigo_ciap2":"K92",
+    "descricao_ciap2":"ATEROSCLEROSE\/DOENÇA VASCULAR PERIFÉRICA",
+    "codigo_cid10":"I73",
+    "descricao_cid10":"OUTRAS DOENÇAS VASCULARES PERIFÉRICAS"
+  },
+  {
+    "codigo_ciap2":"K93",
+    "descricao_ciap2":"EMBOLIA PULMONAR",
+    "codigo_cid10":"I26",
+    "descricao_cid10":"EMBOLIA PULMONAR"
+  },
+  {
+    "codigo_ciap2":"K94",
+    "descricao_ciap2":"FLEBITE\/TROMBOFLEBITE",
+    "codigo_cid10":"I80",
+    "descricao_cid10":"FLEBITE E TROMBOFLEBITE"
+  },
+  {
+    "codigo_ciap2":"K95",
+    "descricao_ciap2":"VEIAS VARICOSAS DA PERNA",
+    "codigo_cid10":"I83",
+    "descricao_cid10":"VARIZES DOS MEMBROS INFERIORES"
+  },
+  {
+    "codigo_ciap2":"K96",
+    "descricao_ciap2":"HEMORRÓIDAS",
+    "codigo_cid10":"I84",
+    "descricao_cid10":"HEMORRÓIDAS"
+  },
+  {
+    "codigo_ciap2":"K99",
+    "descricao_ciap2":"OUTRAS DOENÇAS DO APARELHO CIRCULATÓRIO",
+    "codigo_cid10":"I99",
+    "descricao_cid10":"OUTROS TRANSTORNOS DO APARELHO CIRCULATÓRIO E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"L01",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO PESCOÇO",
+    "codigo_cid10":"M542",
+    "descricao_cid10":"CERVICALGIA"
+  },
+  {
+    "codigo_ciap2":"L02",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA REGIÃO DORSAL",
+    "codigo_cid10":"M54",
+    "descricao_cid10":"DORSALGIA"
+  },
+  {
+    "codigo_ciap2":"L03",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA REGIÃO LOMBAR",
+    "codigo_cid10":"M545",
+    "descricao_cid10":"DOR LOMBAR BAIXA"
+  },
+  {
+    "codigo_ciap2":"L04",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO TÓRAX",
+    "codigo_cid10":"R298",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AOS SISTEMAS NERVOSO E OSTEOMUSCULAR E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"L05",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA AXILA",
+    "codigo_cid10":"R298",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AOS SISTEMAS NERVOSO E OSTEOMUSCULAR E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"L07",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA MANDÍBULA",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L08",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS OMBROS",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L09",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS BRAÇOS",
+    "codigo_cid10":"M796",
+    "descricao_cid10":"DOR EM MEMBRO"
+  },
+  {
+    "codigo_ciap2":"L10",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS COTOVELOS",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L11",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS PUNHOS",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L12",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DAS MÃOS E DEDOS",
+    "codigo_cid10":"M796",
+    "descricao_cid10":"DOR EM MEMBRO"
+  },
+  {
+    "codigo_ciap2":"L13",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO QUADRIL",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L14",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA COXA\/PERNA",
+    "codigo_cid10":"M796",
+    "descricao_cid10":"DOR EM MEMBRO"
+  },
+  {
+    "codigo_ciap2":"L15",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO JOELHO",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L16",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO TORNOZELO",
+    "codigo_cid10":"M255",
+    "descricao_cid10":"DOR ARTICULAR"
+  },
+  {
+    "codigo_ciap2":"L17",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO PÉ\/DEDOS PÉ",
+    "codigo_cid10":"M796",
+    "descricao_cid10":"DOR EM MEMBRO"
+  },
+  {
+    "codigo_ciap2":"L18",
+    "descricao_ciap2":"DORES MUSCULARES",
+    "codigo_cid10":"M791",
+    "descricao_cid10":"MIALGIA"
+  },
+  {
+    "codigo_ciap2":"L19",
+    "descricao_ciap2":"SINAIS\/SINTOMAS MUSCULARES NE",
+    "codigo_cid10":"M79",
+    "descricao_cid10":"OUTROS TRANSTORNOS DOS TECIDOS MOLES, NÃO CLASSIFICADOS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"L20",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DAS ARTICULAÇÕES NE",
+    "codigo_cid10":"M25",
+    "descricao_cid10":"OUTROS TRANSTORNOS ARTICULARES NÃO CLASSIFICADOS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"L26",
+    "descricao_ciap2":"MEDO DE CÂNCER NO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"L27",
+    "descricao_ciap2":"MEDO DE DOENÇA NO APARELHO MÚSCULO-ESQUELÉTICO, OUTRO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"L28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"L29",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS DO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"R298",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AOS SISTEMAS NERVOSO E OSTEOMUSCULAR E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"L70",
+    "descricao_ciap2":"INFECÇÕES DO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"M00",
+    "descricao_cid10":"ARTRITE PIOGÊNICA"
+  },
+  {
+    "codigo_ciap2":"L71",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"C41",
+    "descricao_cid10":"NEOPLASIA MALIGNA DOS OSSOS E DAS CARTILAGENS ARTICULARES DE OUTRAS LOCALIZAÇÕES E DE LOCALIZAÇÕES NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"L72",
+    "descricao_ciap2":"FRATURA: RÁDIO\/CÚBITO",
+    "codigo_cid10":"S52",
+    "descricao_cid10":"FRATURA DO ANTEBRAÇO"
+  },
+  {
+    "codigo_ciap2":"L73",
+    "descricao_ciap2":"FRATURA: TÍBIA\/PERÔNIO\/ FÍBULA",
+    "codigo_cid10":"S82",
+    "descricao_cid10":"FRATURA DA PERNA, INCLUINDO TORNOZELO"
+  },
+  {
+    "codigo_ciap2":"L74",
+    "descricao_ciap2":"FRATURA: OSSO DA MÃO\/PÉ",
+    "codigo_cid10":"S628",
+    "descricao_cid10":"FRATURA DE OUTRAS PARTES E DE PARTES NÃO ESPECIFICADAS DO PUNHO E DA MÃO"
+  },
+  {
+    "codigo_ciap2":"L75",
+    "descricao_ciap2":"FRATURA: FÊMUR",
+    "codigo_cid10":"S72",
+    "descricao_cid10":"FRATURA DO FÊMUR"
+  },
+  {
+    "codigo_ciap2":"L76",
+    "descricao_ciap2":"OUTRAS FRATURAS",
+    "codigo_cid10":"T142",
+    "descricao_cid10":"FRATURA DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"L77",
+    "descricao_ciap2":"ENTORSES E DISTENSÕES DO TORNOZELO",
+    "codigo_cid10":"S934",
+    "descricao_cid10":"ENTORSE E DISTENSÃO DO TORNOZELO"
+  },
+  {
+    "codigo_ciap2":"L78",
+    "descricao_ciap2":"ENTORSES E DISTENSÕES DO JOELHO",
+    "codigo_cid10":"S836",
+    "descricao_cid10":"ENTORSE E DISTENSÃO DE OUTRAS PARTES E DAS NÃO ESPECIFICADAS DO JOELHO"
+  },
+  {
+    "codigo_ciap2":"L79",
+    "descricao_ciap2":"ENTORSES E DISTENSÕES DAS ARTICULAÇÕES NE",
+    "codigo_cid10":"T143",
+    "descricao_cid10":"LUXAÇÃO, ENTORSE E DISTENSÃO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"L80",
+    "descricao_ciap2":"LUXAÇÃO\/SUBLUXAÇÃO",
+    "codigo_cid10":"T143",
+    "descricao_cid10":"LUXAÇÃO, ENTORSE E DISTENSÃO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"L81",
+    "descricao_ciap2":"TRAUMATISMOS DO APARELHO MÚSCULO-ESQUELÉTICO NE",
+    "codigo_cid10":"T146",
+    "descricao_cid10":"TRAUMATISMO DE MÚSCULOS E TENDÕES DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"L82",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS DO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"Q79",
+    "descricao_cid10":"MALFORMAÇÕES CONGÊNITAS DO SISTEMA OSTEOMUSCULAR NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"L83",
+    "descricao_ciap2":"DOENÇAS OU SÍNDROMES DA COLUNA CERVICAL",
+    "codigo_cid10":"M48",
+    "descricao_cid10":"OUTRAS ESPONDILOPATIAS"
+  },
+  {
+    "codigo_ciap2":"L84",
+    "descricao_ciap2":"DOENÇAS OU SÍNDROMES DA COLUNA SEM IRRADIAÇÃO DE DOR",
+    "codigo_cid10":"M53",
+    "descricao_cid10":"OUTRAS DORSOPATIAS NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"L85",
+    "descricao_ciap2":"DEFORMAÇÃO ADQUIRIDA DA COLUNA",
+    "codigo_cid10":"M43",
+    "descricao_cid10":"OUTRAS DORSOPATIAS DEFORMANTES"
+  },
+  {
+    "codigo_ciap2":"L86",
+    "descricao_ciap2":"SÍNDROME VERTEBRAL COM IRRADIAÇÃO DOR",
+    "codigo_cid10":"M543",
+    "descricao_cid10":"CIÁTICA"
+  },
+  {
+    "codigo_ciap2":"L87",
+    "descricao_ciap2":"BURSITE\/TENDINITE\/SINOVITE NE",
+    "codigo_cid10":"M77",
+    "descricao_cid10":"OUTRAS ENTESOPATIAS"
+  },
+  {
+    "codigo_ciap2":"L88",
+    "descricao_ciap2":"ARTRITE REUMATÓIDE\/SEROPOSITIVA",
+    "codigo_cid10":"M06",
+    "descricao_cid10":"OUTRAS ARTRITES REUMATÓIDES"
+  },
+  {
+    "codigo_ciap2":"L89",
+    "descricao_ciap2":"OSTEOARTROSE DO QUADRIL",
+    "codigo_cid10":"M16",
+    "descricao_cid10":"COXARTROSE [ARTROSE DO QUADRIL]"
+  },
+  {
+    "codigo_ciap2":"L90",
+    "descricao_ciap2":"OSTEOARTROSE DO JOELHO",
+    "codigo_cid10":"M17",
+    "descricao_cid10":"GONARTROSE [ARTROSE DO JOELHO]"
+  },
+  {
+    "codigo_ciap2":"L91",
+    "descricao_ciap2":"OUTRAS OSTEOARTROSES",
+    "codigo_cid10":"M19",
+    "descricao_cid10":"OUTRAS ARTROSES"
+  },
+  {
+    "codigo_ciap2":"L92",
+    "descricao_ciap2":"SÍNDROME DO OMBRO DOLOROSO",
+    "codigo_cid10":"M75",
+    "descricao_cid10":"LESÕES DO OMBRO"
+  },
+  {
+    "codigo_ciap2":"L93",
+    "descricao_ciap2":"COTOVELO DE TENISTA",
+    "codigo_cid10":"M771",
+    "descricao_cid10":"EPICONDILITE LATERAL"
+  },
+  {
+    "codigo_ciap2":"L94",
+    "descricao_ciap2":"OSTEOCONDROSE",
+    "codigo_cid10":"M93",
+    "descricao_cid10":"OUTRAS OSTEOCONDROPATIAS"
+  },
+  {
+    "codigo_ciap2":"L95",
+    "descricao_ciap2":"OSTEOPOROSE",
+    "codigo_cid10":"M81",
+    "descricao_cid10":"OSTEOPOROSE SEM FRATURA PATOLÓGICA"
+  },
+  {
+    "codigo_ciap2":"L96",
+    "descricao_ciap2":"LESÃO INTERNA AGUDA DO JOELHO",
+    "codigo_cid10":"S837",
+    "descricao_cid10":"TRAUMATISMO DE ESTRUTURAS MÚLTIPLAS DO JOELHO"
+  },
+  {
+    "codigo_ciap2":"L97",
+    "descricao_ciap2":"NEOPLASIA BENIGNA\/INCERTAS",
+    "codigo_cid10":"D481",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DO TECIDO CONJUNTIVO E OUTROS TECIDOS MOLES"
+  },
+  {
+    "codigo_ciap2":"L98",
+    "descricao_ciap2":"MALFORMAÇÃO ADQUIRIDA DE UM MEMBRO",
+    "codigo_cid10":"M21",
+    "descricao_cid10":"OUTRAS DEFORMIDADES ADQUIRIDAS DOS MEMBROS"
+  },
+  {
+    "codigo_ciap2":"L99",
+    "descricao_ciap2":"OUTRA DOENÇA DO APARELHO MÚSCULO-ESQUELÉTICO",
+    "codigo_cid10":"M99",
+    "descricao_cid10":"LESÕES BIOMECÂNICAS NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"N01",
+    "descricao_ciap2":"CEFALÉIA",
+    "codigo_cid10":"R51",
+    "descricao_cid10":"CEFALÉIA"
+  },
+  {
+    "codigo_ciap2":"N03",
+    "descricao_ciap2":"DORES DA FACE",
+    "codigo_cid10":"G501",
+    "descricao_cid10":"DOR FACIAL ATÍPICA"
+  },
+  {
+    "codigo_ciap2":"N04",
+    "descricao_ciap2":"SÍNDROME DAS PERNAS INQUIETAS",
+    "codigo_cid10":"G258",
+    "descricao_cid10":"OUTRAS DOENÇAS EXTRAPIRAMIDAIS E TRANSTORNOS DOS MOVIMENTOS, ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"N05",
+    "descricao_ciap2":"FORMIGAMENTO\/ PARESTESIA NOS DEDOS DAS MÃOS\/PÉS",
+    "codigo_cid10":"R202",
+    "descricao_cid10":"PARESTESIAS CUTÂNEAS"
+  },
+  {
+    "codigo_ciap2":"N06",
+    "descricao_ciap2":"OUTRAS ALTERAÇÕES DA SENSIBILIDADE",
+    "codigo_cid10":"R208",
+    "descricao_cid10":"OUTROS DISTÚRBIOS E OS NÃO ESPECIFICADAS DA SENSIBILIDADE CUTÂNEA"
+  },
+  {
+    "codigo_ciap2":"N07",
+    "descricao_ciap2":"CONVULSÕES\/ATAQUES",
+    "codigo_cid10":"R568",
+    "descricao_cid10":"OUTRAS CONVULSÕES E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"N08",
+    "descricao_ciap2":"MOVIMENTOS INVOLUNTÁRIOS ANORMAIS",
+    "codigo_cid10":"R25",
+    "descricao_cid10":"MOVIMENTOS INVOLUNTÁRIOS ANORMAIS"
+  },
+  {
+    "codigo_ciap2":"N16",
+    "descricao_ciap2":"ALTERAÇÕES DO OLFATO\/GOSTO",
+    "codigo_cid10":"R438",
+    "descricao_cid10":"OUTROS DISTÚRBIOS DO OLFATO E DO PALADAR E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"N17",
+    "descricao_ciap2":"VERTIGENS\/TONTURAS",
+    "codigo_cid10":"R42",
+    "descricao_cid10":"TONTURA E INSTABILIDADE"
+  },
+  {
+    "codigo_ciap2":"N18",
+    "descricao_ciap2":"PARALISIA\/FRAQUEZA",
+    "codigo_cid10":"G83",
+    "descricao_cid10":"OUTRAS SÍNDROMES PARALÍTICAS"
+  },
+  {
+    "codigo_ciap2":"N19",
+    "descricao_ciap2":"PERTURBAÇÕES DA FALA",
+    "codigo_cid10":"R478",
+    "descricao_cid10":"OUTROS DISTÚRBIOS DA FALA E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"N26",
+    "descricao_ciap2":"MEDO DE CÂNCER DO SISTEMA NEUROLÓGICO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"N27",
+    "descricao_ciap2":"MEDO DE OUTRAS DOENÇAS NEUROLÓGICAS",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"N28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"N29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO SISTEMA NEUROLÓGICO, OUTROS",
+    "codigo_cid10":"R298",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AOS SISTEMAS NERVOSO E OSTEOMUSCULAR E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"N70",
+    "descricao_ciap2":"POLIOMIELITE",
+    "codigo_cid10":"A80",
+    "descricao_cid10":"POLIOMIELITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"N71",
+    "descricao_ciap2":"MENINGITE\/ENCEFALITE",
+    "codigo_cid10":"G04",
+    "descricao_cid10":"ENCEFALITE, MIELITE E ENCEFALOMIELITE"
+  },
+  {
+    "codigo_ciap2":"N72",
+    "descricao_ciap2":"TÉTANO",
+    "codigo_cid10":"A35",
+    "descricao_cid10":"OUTROS TIPOS DE TÉTANO"
+  },
+  {
+    "codigo_ciap2":"N73",
+    "descricao_ciap2":"OUTRA INFECÇÃO NEUROLÓGICA",
+    "codigo_cid10":"A89",
+    "descricao_cid10":"INFECÇÕES VIRAIS NÃO ESPECIFICADAS DO SISTEMA NERVOSO CENTRAL"
+  },
+  {
+    "codigo_ciap2":"N74",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO SISTEMA NEUROLÓGICO",
+    "codigo_cid10":"C72",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA MEDULA ESPINHAL, DOS NERVOS CRANIANOS E DE OUTRAS PARTES DO SISTEMA NERVOSO CENTRAL"
+  },
+  {
+    "codigo_ciap2":"N75",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DO SISTEMA NEUROLÓGICO",
+    "codigo_cid10":"D33",
+    "descricao_cid10":"NEOPLASIA BENIGNA DO ENCÉFALO E DE OUTRAS PARTES DO SISTEMA NERVOSO CENTRAL"
+  },
+  {
+    "codigo_ciap2":"N76",
+    "descricao_ciap2":"NEOPLASIA DO SISTEMA NEUROLÓGICO DE NATUREZA INCERTA",
+    "codigo_cid10":"D43",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DO ENCÉFALO E DO SISTEMA NERVOSO CENTRAL"
+  },
+  {
+    "codigo_ciap2":"N79",
+    "descricao_ciap2":"CONCUSSÃO",
+    "codigo_cid10":"S060",
+    "descricao_cid10":"CONCUSSÃO CEREBRAL"
+  },
+  {
+    "codigo_ciap2":"N80",
+    "descricao_ciap2":"OUTRAS LESÕES CRANIANAS",
+    "codigo_cid10":"S06",
+    "descricao_cid10":"TRAUMATISMO INTRACRANIANO"
+  },
+  {
+    "codigo_ciap2":"N81",
+    "descricao_ciap2":"OUTRA LESÃO DO SISTEMA NEUROLÓGICO",
+    "codigo_cid10":"T144",
+    "descricao_cid10":"TRAUMATISMO DE NERVO(S) DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"N85",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS",
+    "codigo_cid10":"Q07",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO SISTEMA NERVOSO"
+  },
+  {
+    "codigo_ciap2":"N86",
+    "descricao_ciap2":"ESCLEROSE MÚLTIPLA",
+    "codigo_cid10":"G35",
+    "descricao_cid10":"ESCLEROSE MÚLTIPLA"
+  },
+  {
+    "codigo_ciap2":"N87",
+    "descricao_ciap2":"PARKINSONISMO",
+    "codigo_cid10":"G20",
+    "descricao_cid10":"DOENÇA DE PARKINSON"
+  },
+  {
+    "codigo_ciap2":"N88",
+    "descricao_ciap2":"EPILEPSIA",
+    "codigo_cid10":"G40",
+    "descricao_cid10":"EPILEPSIA"
+  },
+  {
+    "codigo_ciap2":"N89",
+    "descricao_ciap2":"ENXAQUECA",
+    "codigo_cid10":"G43",
+    "descricao_cid10":"ENXAQUECA"
+  },
+  {
+    "codigo_ciap2":"N90",
+    "descricao_ciap2":"CEFALÉIA DE CLUSTER",
+    "codigo_cid10":"G440",
+    "descricao_cid10":"SÍNDROME DE CLUSTER-HEADACHE"
+  },
+  {
+    "codigo_ciap2":"N91",
+    "descricao_ciap2":"PARALISIA FACIAL\/PARALISIA DE BELL",
+    "codigo_cid10":"G510",
+    "descricao_cid10":"PARALISIA DE BELL"
+  },
+  {
+    "codigo_ciap2":"N92",
+    "descricao_ciap2":"NEVRALGIA DO TRIGÊMEO",
+    "codigo_cid10":"G500",
+    "descricao_cid10":"NEVRALGIA DO TRIGÊMEO"
+  },
+  {
+    "codigo_ciap2":"N93",
+    "descricao_ciap2":"SÍNDROME DO TÚNEL DO CARPO\/ SÍNDROME DO CANAL CÁRPICO",
+    "codigo_cid10":"G560",
+    "descricao_cid10":"SÍNDROME DO TÚNEL DO CARPO"
+  },
+  {
+    "codigo_ciap2":"N94",
+    "descricao_ciap2":"NEURITE\/ NEVRITE\/NEUROPATIA PERIFÉRICA",
+    "codigo_cid10":"G62",
+    "descricao_cid10":"OUTRAS POLINEUROPATIAS"
+  },
+  {
+    "codigo_ciap2":"N95",
+    "descricao_ciap2":"CEFALÉIA TENSIONAL",
+    "codigo_cid10":"G442",
+    "descricao_cid10":"CEFALÉIA TENSIONAL"
+  },
+  {
+    "codigo_ciap2":"N99",
+    "descricao_ciap2":"OUTRAS DOENÇAS DO SISTEMA NEUROLÓGICO",
+    "codigo_cid10":"G98",
+    "descricao_cid10":"OUTROS TRANSTORNOS DO SISTEMA NERVOSO NÃO CLASSIFICADOS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"P01",
+    "descricao_ciap2":"SENSAÇÃO DE ANSIEDADE\/NERVOSISMO\/TENSÃO",
+    "codigo_cid10":"R450",
+    "descricao_cid10":"NERVOSISMO"
+  },
+  {
+    "codigo_ciap2":"P02",
+    "descricao_ciap2":"REAÇÃO AGUDA AO ESTRESSE",
+    "codigo_cid10":"F430",
+    "descricao_cid10":"REAÇÃO AGUDA AO STRESS"
+  },
+  {
+    "codigo_ciap2":"P03",
+    "descricao_ciap2":"TRISTEZA\/ SENSAÇÃO DE DEPRESSÃO",
+    "codigo_cid10":"R452",
+    "descricao_cid10":"TRISTEZA"
+  },
+  {
+    "codigo_ciap2":"P04",
+    "descricao_ciap2":"SENTIR\/COMPORTAR-SE DE FORMA IRRITÁVEL\/ZANGADA",
+    "codigo_cid10":"R454",
+    "descricao_cid10":"IRRITABILIDADE E MAU HUMOR"
+  },
+  {
+    "codigo_ciap2":"P05",
+    "descricao_ciap2":"SENSAÇÃO\/COMPORTAMENTO SENIL",
+    "codigo_cid10":"R54",
+    "descricao_cid10":"SENILIDADE"
+  },
+  {
+    "codigo_ciap2":"P06",
+    "descricao_ciap2":"PERTURBAÇÃO DO SONO",
+    "codigo_cid10":"F51",
+    "descricao_cid10":"TRANSTORNOS NÃO-ORGÂNICOS DO SONO DEVIDOS A FATORES EMOCIONAIS"
+  },
+  {
+    "codigo_ciap2":"P07",
+    "descricao_ciap2":"DIMINUIÇÃO DO DESEJO SEXUAL",
+    "codigo_cid10":"F520",
+    "descricao_cid10":"AUSÊNCIA OU PERDA DO DESEJO SEXUAL"
+  },
+  {
+    "codigo_ciap2":"P08",
+    "descricao_ciap2":"DIMINUIÇÃO DA SATISFAÇÃO SEXUAL",
+    "codigo_cid10":"F52",
+    "descricao_cid10":"DISFUNÇÃO SEXUAL, NÃO CAUSADA POR TRANSTORNO OU DOENÇA ORGÂNICA"
+  },
+  {
+    "codigo_ciap2":"P09",
+    "descricao_ciap2":"PREOCUPAÇÃO COM A PREFERÊNCIA SEXUAL",
+    "codigo_cid10":"F66",
+    "descricao_cid10":"TRANSTORNOS PSICOLÓGICOS E COMPORTAMENTAIS ASSOCIADOS AO DESENVOLVIMENTO SEXUAL E À SUA ORIENTAÇÃO"
+  },
+  {
+    "codigo_ciap2":"P10",
+    "descricao_ciap2":"GAGUEJAR\/BALBUCIAR\/TIQUES",
+    "codigo_cid10":"F985",
+    "descricao_cid10":"GAGUEIRA [TARTAMUDEZ]"
+  },
+  {
+    "codigo_ciap2":"P11",
+    "descricao_ciap2":"PROBLEMAS DE ALIMENTAÇÃO DA CRIANÇA",
+    "codigo_cid10":"F982",
+    "descricao_cid10":"TRANSTORNO DE ALIMENTAÇÃO NA INFÂNCIA"
+  },
+  {
+    "codigo_ciap2":"P12",
+    "descricao_ciap2":"MOLHAR A CAMA\/ENURESE",
+    "codigo_cid10":"F980",
+    "descricao_cid10":"ENURESE DE ORIGEM NÃO-ORGÂNICA"
+  },
+  {
+    "codigo_ciap2":"P13",
+    "descricao_ciap2":"ENCOPRESE\/OUTROS PROBLEMAS DE INCONTINÊNCIA FECAL",
+    "codigo_cid10":"F981",
+    "descricao_cid10":"ENCOPRESE DE ORIGEM NÃO-ORGÂNICA"
+  },
+  {
+    "codigo_ciap2":"P15",
+    "descricao_ciap2":"ABUSO CRÔNICO DE ÁLCOOL",
+    "codigo_cid10":"F101",
+    "descricao_cid10":"TRANSTORNOS MENTAIS E COMPORT. DEVIDOS USO DE ÁLCOOL - USO NOCIVO PARA A SAÚDE"
+  },
+  {
+    "codigo_ciap2":"P16",
+    "descricao_ciap2":"ABUSO AGUDO DE ÁLCOOL",
+    "codigo_cid10":"F100",
+    "descricao_cid10":"TRANSTORNOS MENTAIS E COMPORT. DEVIDOS USO DE ÁLCOOL - INTOXICAÇÃO AGUDA"
+  },
+  {
+    "codigo_ciap2":"P17",
+    "descricao_ciap2":"ABUSO DO TABACO",
+    "codigo_cid10":"F171",
+    "descricao_cid10":"TRANSTORNOS MENTAIS E COMPORT. DEV. USO FUMO - USO NOCIVO PARA A SAÚDE"
+  },
+  {
+    "codigo_ciap2":"P18",
+    "descricao_ciap2":"ABUSO DE MEDICAÇÃO",
+    "codigo_cid10":"F55",
+    "descricao_cid10":"ABUSO DE SUBSTÂNCIAS QUE NÃO PRODUZEM DEPENDÊNCIA"
+  },
+  {
+    "codigo_ciap2":"P19",
+    "descricao_ciap2":"ABUSO DE DROGAS",
+    "codigo_cid10":"F191",
+    "descricao_cid10":"TRANST. MENTAIS\/COMPORT. DEV. USO MÚLT. DROGAS\/OUT. PSICOATIVAS - USO NOCIVO PARA A SAÚDE"
+  },
+  {
+    "codigo_ciap2":"P20",
+    "descricao_ciap2":"ALTERAÇÕES DA MEMÓRIA",
+    "codigo_cid10":"R418",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS ÀS FUNÇÕES COGNITIVAS E À CONSCIÊNCIA"
+  },
+  {
+    "codigo_ciap2":"P22",
+    "descricao_ciap2":"SINAIS\/SINTOMAS RELACIONADOS AO COMPORTAMENTO DA CRIANÇA",
+    "codigo_cid10":"F91",
+    "descricao_cid10":"DISTÚRBIOS DE CONDUTA"
+  },
+  {
+    "codigo_ciap2":"P23",
+    "descricao_ciap2":"SINAIS\/SINTOMAS RELACIONADOS AO COMPORTAMENTO DO ADOLESCENTE",
+    "codigo_cid10":"F91",
+    "descricao_cid10":"DISTÚRBIOS DE CONDUTA"
+  },
+  {
+    "codigo_ciap2":"P24",
+    "descricao_ciap2":"DIFICULDADES ESPECÍFICAS DE APRENDIZAGEM",
+    "codigo_cid10":"R488",
+    "descricao_cid10":"OUTRAS DISFUNÇÕES SIMBÓLICAS E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"P25",
+    "descricao_ciap2":"PROBLEMAS DA FASE DE VIDA DE ADULTO",
+    "codigo_cid10":"Z600",
+    "descricao_cid10":"PROBLEMAS DE ADAPTAÇÃO ÀS TRANSIÇÕES DO CICLO DE VIDA"
+  },
+  {
+    "codigo_ciap2":"P27",
+    "descricao_ciap2":"MEDO DE PERTURBAÇÕES MENTAIS",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"P28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"P29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS PSICOLÓGICOS, OUTROS",
+    "codigo_cid10":"R458",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AO ESTADO EMOCIONAL"
+  },
+  {
+    "codigo_ciap2":"P70",
+    "descricao_ciap2":"DEMÊNCIA",
+    "codigo_cid10":"F03",
+    "descricao_cid10":"DEMÊNCIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"P71",
+    "descricao_ciap2":"OUTRAS PSICOSES ORGÂNICAS NE",
+    "codigo_cid10":"F06",
+    "descricao_cid10":"OUTROS TRANSTORNOS MENTAIS DEVIDOS A LESÃO E DISFUNÇÃO CEREBRAL E A DOENÇA FÍSICA"
+  },
+  {
+    "codigo_ciap2":"P72",
+    "descricao_ciap2":"ESQUIZOFRENIA",
+    "codigo_cid10":"F20",
+    "descricao_cid10":"ESQUIZOFRENIA"
+  },
+  {
+    "codigo_ciap2":"P73",
+    "descricao_ciap2":"PSICOSE AFETIVA",
+    "codigo_cid10":"F31",
+    "descricao_cid10":"TRANSTORNO AFETIVO BIPOLAR"
+  },
+  {
+    "codigo_ciap2":"P74",
+    "descricao_ciap2":"DISTÚRBIO ANSIOSO\/ESTADO DE ANSIEDADE",
+    "codigo_cid10":"F41",
+    "descricao_cid10":"OUTROS TRANSTORNOS ANSIOSOS"
+  },
+  {
+    "codigo_ciap2":"P75",
+    "descricao_ciap2":"SOMATIZAÇÃO",
+    "codigo_cid10":"F45",
+    "descricao_cid10":"TRANSTORNOS SOMATOFORMES"
+  },
+  {
+    "codigo_ciap2":"P76",
+    "descricao_ciap2":"PERTURBAÇÕES DEPRESSIVAS",
+    "codigo_cid10":"F32",
+    "descricao_cid10":"EPISÓDIOS DEPRESSIVOS"
+  },
+  {
+    "codigo_ciap2":"P77",
+    "descricao_ciap2":"SUICÍDIO\/TENTATIVA DE SUICÍDIO",
+    "codigo_cid10":"F99",
+    "descricao_cid10":"TRANSTORNO MENTAL NÃO ESPECIFICADO EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"P78",
+    "descricao_ciap2":"NEURASTENIA",
+    "codigo_cid10":"F480",
+    "descricao_cid10":"NEURASTENIA"
+  },
+  {
+    "codigo_ciap2":"P79",
+    "descricao_ciap2":"FOBIA\/PERTURBAÇÃO COMPULSIVA",
+    "codigo_cid10":"F42",
+    "descricao_cid10":"TRANSTORNO OBSESSIVO-COMPULSIVO"
+  },
+  {
+    "codigo_ciap2":"P80",
+    "descricao_ciap2":"PERTURBAÇÕES DE PERSONALIDADE",
+    "codigo_cid10":"F60",
+    "descricao_cid10":"TRANSTORNOS ESPECÍFICOS DA PERSONALIDADE"
+  },
+  {
+    "codigo_ciap2":"P81",
+    "descricao_ciap2":"PERTURBAÇÃO HIPERCINÉTICA",
+    "codigo_cid10":"F90",
+    "descricao_cid10":"TRANSTORNOS HIPERCINÉTICOS"
+  },
+  {
+    "codigo_ciap2":"P82",
+    "descricao_ciap2":"ESTRESSE PÓS TRAUMÁTICO",
+    "codigo_cid10":"F431",
+    "descricao_cid10":"ESTADO DE STRESS PÓS-TRAUMÁTICO"
+  },
+  {
+    "codigo_ciap2":"P85",
+    "descricao_ciap2":"RETARDO\/ ATRASO MENTAL",
+    "codigo_cid10":"F79",
+    "descricao_cid10":"RETARDO MENTAL NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"P86",
+    "descricao_ciap2":"ANOREXIA NERVOSA, BULIMIA",
+    "codigo_cid10":"F50",
+    "descricao_cid10":"TRANSTORNOS DA ALIMENTAÇÃO"
+  },
+  {
+    "codigo_ciap2":"P98",
+    "descricao_ciap2":"OUTRAS PSICOSES NE",
+    "codigo_cid10":"F29",
+    "descricao_cid10":"PSICOSE NÃO-ORGÂNICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"P99",
+    "descricao_ciap2":"OUTRAS PERTURBAÇÕES PSICOLÓGICAS",
+    "codigo_cid10":"F99",
+    "descricao_cid10":"TRANSTORNO MENTAL NÃO ESPECIFICADO EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"R01",
+    "descricao_ciap2":"DOR ATRIBUÍDA AO APARELHO RESPIRATÓRIO",
+    "codigo_cid10":"R071",
+    "descricao_cid10":"DOR TORÁCICA AO RESPIRAR"
+  },
+  {
+    "codigo_ciap2":"R02",
+    "descricao_ciap2":"DIFICULDADE RESPIRATÓRIA, DISPNEIA",
+    "codigo_cid10":"R060",
+    "descricao_cid10":"DISPNÉIA"
+  },
+  {
+    "codigo_ciap2":"R03",
+    "descricao_ciap2":"RESPIRAÇÃO RUIDOSA",
+    "codigo_cid10":"R062",
+    "descricao_cid10":"RESPIRAÇÃO OFEGANTE"
+  },
+  {
+    "codigo_ciap2":"R04",
+    "descricao_ciap2":"OUTROS PROBLEMAS RESPIRATÓRIOS",
+    "codigo_cid10":"R068",
+    "descricao_cid10":"OUTRAS ANORMALIDADES E AS NÃO ESPECIFICADAS DA RESPIRAÇÃO"
+  },
+  {
+    "codigo_ciap2":"R05",
+    "descricao_ciap2":"TOSSE",
+    "codigo_cid10":"R05",
+    "descricao_cid10":"TOSSE"
+  },
+  {
+    "codigo_ciap2":"R06",
+    "descricao_ciap2":"HEMORRAGIA NASAL\/EPISTAXE",
+    "codigo_cid10":"R040",
+    "descricao_cid10":"EPISTAXIS"
+  },
+  {
+    "codigo_ciap2":"R07",
+    "descricao_ciap2":"ESPIRRO\/CONGESTÃO NASAL",
+    "codigo_cid10":"R067",
+    "descricao_cid10":"ESPIRRO"
+  },
+  {
+    "codigo_ciap2":"R08",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS NASAIS",
+    "codigo_cid10":"J348",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO NARIZ E DOS SEIOS PARANASAIS"
+  },
+  {
+    "codigo_ciap2":"R09",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS SEIOS PARANASAIS",
+    "codigo_cid10":"J348",
+    "descricao_cid10":"OUTROS TRANSTORNOS ESPECIFICADOS DO NARIZ E DOS SEIOS PARANASAIS"
+  },
+  {
+    "codigo_ciap2":"R21",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA GARGANTA",
+    "codigo_cid10":"R070",
+    "descricao_cid10":"DOR DE GARGANTA"
+  },
+  {
+    "codigo_ciap2":"R23",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA VOZ",
+    "codigo_cid10":"R498",
+    "descricao_cid10":"OUTROS DISTÚRBIOS DA VOZ E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"R24",
+    "descricao_ciap2":"HEMOPTISE",
+    "codigo_cid10":"R042",
+    "descricao_cid10":"HEMOPTISE"
+  },
+  {
+    "codigo_ciap2":"R25",
+    "descricao_ciap2":"EXPECTORAÇÃO\/MUCOSIDADE ANORMAL",
+    "codigo_cid10":"R093",
+    "descricao_cid10":"ESCARRO ANORMAL"
+  },
+  {
+    "codigo_ciap2":"R26",
+    "descricao_ciap2":"MEDO DE CÂNCER DO APARELHO RESPIRATÓRIO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"R27",
+    "descricao_ciap2":"MEDO DE OUTRAS DOENÇAS RESPIRATÓRIAS",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"R28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"R29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO APARELHO RESPIRATÓRIO, OUTROS",
+    "codigo_cid10":"R098",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS ESPECIFICADOS RELATIVOS AOS APARELHOS CIRCULATÓRIO E RESPIRATÓRIO"
+  },
+  {
+    "codigo_ciap2":"R71",
+    "descricao_ciap2":"TOSSE CONVULSA\/ PERTUSSIS",
+    "codigo_cid10":"A37",
+    "descricao_cid10":"COQUELUCHE"
+  },
+  {
+    "codigo_ciap2":"R72",
+    "descricao_ciap2":"INFECÇÃO ESTREPTOCÓCICA DA OROFARINGE",
+    "codigo_cid10":"J030",
+    "descricao_cid10":"AMIGDALITE ESTREPTOCÓCICA"
+  },
+  {
+    "codigo_ciap2":"R73",
+    "descricao_ciap2":"ABCESSO\/FURÚNCULO NO NARIZ",
+    "codigo_cid10":"J340",
+    "descricao_cid10":"ABSCESSO, FURÚNCULO E ANTRAZ DO NARIZ"
+  },
+  {
+    "codigo_ciap2":"R74",
+    "descricao_ciap2":"INFECÇÃO AGUDA DO APARELHO RESPIRATÓRIO SUPERIOR (IVAS)",
+    "codigo_cid10":"J06",
+    "descricao_cid10":"INFECÇÕES AGUDAS DAS VIAS AÉREAS SUPERIORES DE LOCALIZAÇÕES MÚLTIPLAS E NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"R75",
+    "descricao_ciap2":"SINUSITE CRÔNICA\/AGUDA",
+    "codigo_cid10":"J01",
+    "descricao_cid10":"SINUSITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"R76",
+    "descricao_ciap2":"AMIGDALITE AGUDA",
+    "codigo_cid10":"J03",
+    "descricao_cid10":"AMIGDALITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"R77",
+    "descricao_ciap2":"LARINGITE\/TRAQUEÍTE AGUDA",
+    "codigo_cid10":"J040",
+    "descricao_cid10":"LARINGITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"R78",
+    "descricao_ciap2":"BRONQUITE\/BRONQUIOLITE AGUDA",
+    "codigo_cid10":"J22",
+    "descricao_cid10":"INFECÇÕES AGUDAS NÃO ESPECIFICADA DAS VIAS AÉREAS INFERIORES"
+  },
+  {
+    "codigo_ciap2":"R79",
+    "descricao_ciap2":"BRONQUITE CRÔNICA",
+    "codigo_cid10":"J42",
+    "descricao_cid10":"BRONQUITE CRÔNICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"R80",
+    "descricao_ciap2":"GRIPE",
+    "codigo_cid10":"J111",
+    "descricao_cid10":"INFLUENZA [GRIPE] COM OUTRAS MANIFESTAÇÕES RESPIRATÓRIAS, DEVIDA A VÍRUS NÃO IDENTIFICADO"
+  },
+  {
+    "codigo_ciap2":"R81",
+    "descricao_ciap2":"PNEUMONIA",
+    "codigo_cid10":"J18",
+    "descricao_cid10":"PNEUMONIA POR MICROORGANISMO NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"R82",
+    "descricao_ciap2":"PLEURITE\/DERRAME PLEURAL",
+    "codigo_cid10":"R091",
+    "descricao_cid10":"PLEURISIA"
+  },
+  {
+    "codigo_ciap2":"R83",
+    "descricao_ciap2":"OUTRA INFECÇÃO RESPIRATÓRIA",
+    "codigo_cid10":"J311",
+    "descricao_cid10":"NASOFARINGITE CRÔNICA"
+  },
+  {
+    "codigo_ciap2":"R84",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DOS BRÔNQUIOS\/PULMÃO",
+    "codigo_cid10":"C34",
+    "descricao_cid10":"NEOPLASIA MALIGNA DOS BRÔNQUIOS E DOS PULMÕES"
+  },
+  {
+    "codigo_ciap2":"R85",
+    "descricao_ciap2":"OUTRA NEOPLASIA RESPIRATÓRIA MALIGNA",
+    "codigo_cid10":"C39",
+    "descricao_cid10":"NEOPLASIA MALIGNA DE OUTRAS LOCALIZAÇÕES E DE LOCALIZAÇÕES MAL DEFINIDAS DO APARELHO RESPIRATÓRIO E DOS ÓRGÃOS INTRATORÁCICOS"
+  },
+  {
+    "codigo_ciap2":"R86",
+    "descricao_ciap2":"NEOPLASIA BENIGNA RESPIRATÓRIA",
+    "codigo_cid10":"D144",
+    "descricao_cid10":"NEOPLASIA BENIGNA DO APARELHO RESPIRATÓRIO, NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"R87",
+    "descricao_ciap2":"CORPO ESTRANHO NARIZ\/LARINGE\/BRÔNQUIOS",
+    "codigo_cid10":"T17",
+    "descricao_cid10":"CORPO ESTRANHO NO TRATO RESPIRATÓRIO"
+  },
+  {
+    "codigo_ciap2":"R88",
+    "descricao_ciap2":"OUTRA LESÃO RESPIRATÓRIA",
+    "codigo_cid10":"S27",
+    "descricao_cid10":"TRAUMATISMO DE OUTROS ÓRGÃOS INTRATORÁCICOS E DOS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"R89",
+    "descricao_ciap2":"MALFORMAÇÃO CONGÊNITA DO APARELHO RESPIRATÓRIO",
+    "codigo_cid10":"Q34",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO APARELHO RESPIRATÓRIO"
+  },
+  {
+    "codigo_ciap2":"R90",
+    "descricao_ciap2":"HIPERTROFIA DAS AMÍGDALAS\/ADENÓIDES",
+    "codigo_cid10":"J35",
+    "descricao_cid10":"DOENÇAS CRÔNICAS DAS AMÍGDALAS E DAS ADENÓIDES"
+  },
+  {
+    "codigo_ciap2":"R92",
+    "descricao_ciap2":"NEOPLASIA RESPIRATÓRIA NE",
+    "codigo_cid10":"D38",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DO OUVIDO MÉDIO E DOS ÓRGÃOS RESPIRATÓRIOS E INTRATORÁCICOS"
+  },
+  {
+    "codigo_ciap2":"R95",
+    "descricao_ciap2":"DOENÇA PULMONAR OBSTRUTIVA CRÔNICA",
+    "codigo_cid10":"J44",
+    "descricao_cid10":"OUTRAS DOENÇAS PULMONARES OBSTRUTIVAS CRÔNICAS"
+  },
+  {
+    "codigo_ciap2":"R96",
+    "descricao_ciap2":"ASMA",
+    "codigo_cid10":"J45",
+    "descricao_cid10":"ASMA"
+  },
+  {
+    "codigo_ciap2":"R97",
+    "descricao_ciap2":"RINITE ALÉRGICA",
+    "codigo_cid10":"J304",
+    "descricao_cid10":"RINITE ALÉRGICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"R98",
+    "descricao_ciap2":"SÍNDROME DE HIPERVENTILAÇÃO",
+    "codigo_cid10":"R064",
+    "descricao_cid10":"HIPERVENTILAÇÃO"
+  },
+  {
+    "codigo_ciap2":"R99",
+    "descricao_ciap2":"OUTRAS DOENÇAS RESPIRATÓRIAS",
+    "codigo_cid10":"J98",
+    "descricao_cid10":"OUTROS TRANSTORNOS RESPIRATÓRIOS"
+  },
+  {
+    "codigo_ciap2":"S01",
+    "descricao_ciap2":"DOR\/SENSIBILIDADE DOLOROSA DA PELE",
+    "codigo_cid10":"R208",
+    "descricao_cid10":"OUTROS DISTÚRBIOS E OS NÃO ESPECIFICADAS DA SENSIBILIDADE CUTÂNEA"
+  },
+  {
+    "codigo_ciap2":"S02",
+    "descricao_ciap2":"PRURIDO",
+    "codigo_cid10":"L29",
+    "descricao_cid10":"PRURIDO"
+  },
+  {
+    "codigo_ciap2":"S03",
+    "descricao_ciap2":"VERRUGAS",
+    "codigo_cid10":"B07",
+    "descricao_cid10":"VERRUGAS DE ORIGEM VIRAL"
+  },
+  {
+    "codigo_ciap2":"S04",
+    "descricao_ciap2":"TUMOR\/INCHAÇO LOCALIZADO",
+    "codigo_cid10":"R22",
+    "descricao_cid10":"TUMEFAÇÃO, MASSA OU TUMORAÇÃO LOCALIZADAS DA PELE E DO TECIDO SUBCUTÂNEO"
+  },
+  {
+    "codigo_ciap2":"S05",
+    "descricao_ciap2":"TUMORES\/INCHAÇOS GENERALIZADOS",
+    "codigo_cid10":"R227",
+    "descricao_cid10":"TUMEFAÇÃO, MASSA OU TUMORAÇÃO LOCALIZADAS DE MÚLTIPLAS LOCALIZAÇÕES"
+  },
+  {
+    "codigo_ciap2":"S06",
+    "descricao_ciap2":"ERUPÇÃO CUTÂNEA LOCALIZADA",
+    "codigo_cid10":"R21",
+    "descricao_cid10":"ERITEMA E OUTRAS ERUPÇÕES CUTÂNEAS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"S07",
+    "descricao_ciap2":"ERUPÇÃO CUTÂNEA GENERALIZADA",
+    "codigo_cid10":"R21",
+    "descricao_cid10":"ERITEMA E OUTRAS ERUPÇÕES CUTÂNEAS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"S08",
+    "descricao_ciap2":"ALTERAÇÕES DA COR DA PELE",
+    "codigo_cid10":"R238",
+    "descricao_cid10":"OUTRAS ALTERAÇÕES DA PELE E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"S09",
+    "descricao_ciap2":"INFECÇÃO DOS DEDOS DAS MÃOS\/PÉS",
+    "codigo_cid10":"L030",
+    "descricao_cid10":"CELULITE DE DEDOS DAS MÃOS E DOS PÉS"
+  },
+  {
+    "codigo_ciap2":"S10",
+    "descricao_ciap2":"FURÚNCULO\/CARBÚNCULO",
+    "codigo_cid10":"L02",
+    "descricao_cid10":"ABSCESSO CUTÂNEO, FURÚNCULO E ANTRAZ"
+  },
+  {
+    "codigo_ciap2":"S11",
+    "descricao_ciap2":"INFECÇÃO PÓS-TRAUMÁTICA DA PELE",
+    "codigo_cid10":"T793",
+    "descricao_cid10":"INFECÇÃO PÓS-TRAUMÁTICA DE FERIMENTO NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"S12",
+    "descricao_ciap2":"PICADA OU MORDEDURA DE INSETO",
+    "codigo_cid10":"T140",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S13",
+    "descricao_ciap2":"MORDEDURA ANIMAL\/HUMANA",
+    "codigo_cid10":"T141",
+    "descricao_cid10":"FERIMENTO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S14",
+    "descricao_ciap2":"QUEIMADURA\/ESCALDÃO",
+    "codigo_cid10":"T300",
+    "descricao_cid10":"QUEIMADURA, PARTE DO CORPO NÃO ESPECIFICADA, GRAU NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"S15",
+    "descricao_ciap2":"CORPO ESTRANHO NA PELE",
+    "codigo_cid10":"T140",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S16",
+    "descricao_ciap2":"TRAUMATISMO\/CONTUSÃO",
+    "codigo_cid10":"T140",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S17",
+    "descricao_ciap2":"ABRASÃO\/ARRANHÃO\/BOLHAS",
+    "codigo_cid10":"T140",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S18",
+    "descricao_ciap2":"LACERAÇÃO\/CORTE",
+    "codigo_cid10":"T141",
+    "descricao_cid10":"FERIMENTO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S19",
+    "descricao_ciap2":"OUTRA LESÃO CUTÂNEA",
+    "codigo_cid10":"T140",
+    "descricao_cid10":"TRAUMATISMO SUPERFICIAL DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"S20",
+    "descricao_ciap2":"CALOS\/CALOSIDADES",
+    "codigo_cid10":"L84",
+    "descricao_cid10":"CALOS E CALOSIDADES"
+  },
+  {
+    "codigo_ciap2":"S21",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA TEXTURA DA PELE",
+    "codigo_cid10":"R234",
+    "descricao_cid10":"ALTERAÇÕES NA TEXTURA DA PELE"
+  },
+  {
+    "codigo_ciap2":"S22",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DAS UNHAS",
+    "codigo_cid10":"L60",
+    "descricao_cid10":"AFECÇÕES DAS UNHAS"
+  },
+  {
+    "codigo_ciap2":"S23",
+    "descricao_ciap2":"QUEDA DE CABELO\/CALVÍCIE",
+    "codigo_cid10":"L65",
+    "descricao_cid10":"OUTRAS FORMAS NÃO CICATRICIAIS DA PERDA DE CABELOS OU PÊLOS"
+  },
+  {
+    "codigo_ciap2":"S24",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO CABELO\/COURO CABELUDO",
+    "codigo_cid10":"L67",
+    "descricao_cid10":"ANORMALIDADES DA COR E DO PEDÍCULO DOS CABELOS E DOS PÊLOS"
+  },
+  {
+    "codigo_ciap2":"S26",
+    "descricao_ciap2":"MEDO DE CÂNCER DE PELE",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"S27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA DA PELE",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"S28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"S29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA PELE, OUTROS",
+    "codigo_cid10":"R238",
+    "descricao_cid10":"OUTRAS ALTERAÇÕES DA PELE E AS NÃO ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"S70",
+    "descricao_ciap2":"HERPES ZOSTER",
+    "codigo_cid10":"B02",
+    "descricao_cid10":"HERPES ZOSTER (ZONA)"
+  },
+  {
+    "codigo_ciap2":"S71",
+    "descricao_ciap2":"HERPES SIMPLES",
+    "codigo_cid10":"B00",
+    "descricao_cid10":"INFECÇÕES PELO VÍRUS DO HERPES [HERPES SIMPLES]"
+  },
+  {
+    "codigo_ciap2":"S72",
+    "descricao_ciap2":"ESCABIOSE\/OUTRAS ACARÍASES",
+    "codigo_cid10":"B86",
+    "descricao_cid10":"ESCABIOSE [SARNA]"
+  },
+  {
+    "codigo_ciap2":"S73",
+    "descricao_ciap2":"PEDICULOSE\/OUTRAS INFECÇÕES DA PELE",
+    "codigo_cid10":"B88",
+    "descricao_cid10":"OUTRAS INFESTAÇÕES"
+  },
+  {
+    "codigo_ciap2":"S74",
+    "descricao_ciap2":"DERMATOFITOSE",
+    "codigo_cid10":"B35",
+    "descricao_cid10":"DERMATOFITOSE"
+  },
+  {
+    "codigo_ciap2":"S75",
+    "descricao_ciap2":"MONILÍASE ORAL\/CANDIDÍASE NA PELE",
+    "codigo_cid10":"B372",
+    "descricao_cid10":"CANDIDÍASE DA PELE E DAS UNHAS"
+  },
+  {
+    "codigo_ciap2":"S76",
+    "descricao_ciap2":"OUTRAS INFECÇÕES DA PELE",
+    "codigo_cid10":"L08",
+    "descricao_cid10":"OUTRAS INFECÇÕES LOCALIZADAS DA PELE E DO TECIDO SUBCUTÂNEO"
+  },
+  {
+    "codigo_ciap2":"S77",
+    "descricao_ciap2":"NEOPLASIAS MALIGNAS DA PELE",
+    "codigo_cid10":"C44",
+    "descricao_cid10":"OUTRAS NEOPLASIAS MALIGNAS DA PELE"
+  },
+  {
+    "codigo_ciap2":"S78",
+    "descricao_ciap2":"LIPOMA",
+    "codigo_cid10":"D17",
+    "descricao_cid10":"NEOPLASIA LIPOMATOSA BENIGNA"
+  },
+  {
+    "codigo_ciap2":"S79",
+    "descricao_ciap2":"NEOPLASIA CUTÂNEA BENIGNA\/INCERTA",
+    "codigo_cid10":"D485",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DA PELE"
+  },
+  {
+    "codigo_ciap2":"S80",
+    "descricao_ciap2":"CERATOSE\/ QUERATOSE SOLAR\/QUEIMADURA SOLAR",
+    "codigo_cid10":"L56",
+    "descricao_cid10":"OUTRAS ALTERAÇÕES AGUDAS DA PELE DEVIDAS A RADIAÇÃO ULTRAVIOLETA"
+  },
+  {
+    "codigo_ciap2":"S81",
+    "descricao_ciap2":"HEMANGIOMA\/LINFANGIOMA",
+    "codigo_cid10":"D18",
+    "descricao_cid10":"HEMANGIOMA E LINFANGIOMA DE QUALQUER LOCALIZAÇÃO"
+  },
+  {
+    "codigo_ciap2":"S82",
+    "descricao_ciap2":"NEVOS\/SINAIS DA PELE",
+    "codigo_cid10":"D22",
+    "descricao_cid10":"NEVOS MELANOCÍTICOS"
+  },
+  {
+    "codigo_ciap2":"S83",
+    "descricao_ciap2":"LESÕES DA PELE CONGÊNITAS, OUTRAS",
+    "codigo_cid10":"Q82",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DA PELE"
+  },
+  {
+    "codigo_ciap2":"S84",
+    "descricao_ciap2":"IMPETIGO",
+    "codigo_cid10":"L010",
+    "descricao_cid10":"IMPETIGO [QUALQUER LOCALIZAÇÃO] [QUALQUER MICROORGANISMO]"
+  },
+  {
+    "codigo_ciap2":"S85",
+    "descricao_ciap2":"CISTO PILONIDAL\/FISTULA",
+    "codigo_cid10":"L05",
+    "descricao_cid10":"CISTO PILONIDAL"
+  },
+  {
+    "codigo_ciap2":"S86",
+    "descricao_ciap2":"DERMATITE SEBORREICA",
+    "codigo_cid10":"L21",
+    "descricao_cid10":"DERMATITE SEBORRÉICA"
+  },
+  {
+    "codigo_ciap2":"S87",
+    "descricao_ciap2":"DERMATITE\/ECZEMA ATÓPICO",
+    "codigo_cid10":"L20",
+    "descricao_cid10":"DERMATITE ATÓPICA"
+  },
+  {
+    "codigo_ciap2":"S88",
+    "descricao_ciap2":"DERMATITE DE CONTATO\/ALÉRGICA",
+    "codigo_cid10":"L30",
+    "descricao_cid10":"OUTRAS DERMATITES"
+  },
+  {
+    "codigo_ciap2":"S89",
+    "descricao_ciap2":"DERMATITE DAS FRALDAS",
+    "codigo_cid10":"L22",
+    "descricao_cid10":"DERMATITE DAS FRALDAS"
+  },
+  {
+    "codigo_ciap2":"S90",
+    "descricao_ciap2":"PITIRÍASE ROSADA",
+    "codigo_cid10":"L42",
+    "descricao_cid10":"PITIRÍASE RÓSEA"
+  },
+  {
+    "codigo_ciap2":"S91",
+    "descricao_ciap2":"PSORÍASE",
+    "codigo_cid10":"L40",
+    "descricao_cid10":"PSORÍASE"
+  },
+  {
+    "codigo_ciap2":"S92",
+    "descricao_ciap2":"DOENÇA DAS GLÂNDULAS SUDORÍPARAS",
+    "codigo_cid10":"L74",
+    "descricao_cid10":"AFECÇÕES DAS GLÂNDULAS SUDORÍPARAS ÉCRINAS"
+  },
+  {
+    "codigo_ciap2":"S93",
+    "descricao_ciap2":"CISTO SEBÁCEO",
+    "codigo_cid10":"L721",
+    "descricao_cid10":"CISTO TRIQUILEMAL"
+  },
+  {
+    "codigo_ciap2":"S94",
+    "descricao_ciap2":"UNHA ENCRAVADA",
+    "codigo_cid10":"L600",
+    "descricao_cid10":"UNHA ENCRAVADA"
+  },
+  {
+    "codigo_ciap2":"S95",
+    "descricao_ciap2":"MOLUSCO CONTAGIOSO",
+    "codigo_cid10":"B081",
+    "descricao_cid10":"MOLUSCO CONTAGIOSO"
+  },
+  {
+    "codigo_ciap2":"S96",
+    "descricao_ciap2":"ACNE",
+    "codigo_cid10":"L70",
+    "descricao_cid10":"ACNE"
+  },
+  {
+    "codigo_ciap2":"S97",
+    "descricao_ciap2":"ÚLCERA CRÔNICA DA PELE",
+    "codigo_cid10":"L984",
+    "descricao_cid10":"ÚLCERA CRÔNICA DA PELE, NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"S98",
+    "descricao_ciap2":"URTICÁRIA",
+    "codigo_cid10":"L50",
+    "descricao_cid10":"URTICÁRIA"
+  },
+  {
+    "codigo_ciap2":"S99",
+    "descricao_ciap2":"OUTRAS DOENÇAS DA PELE",
+    "codigo_cid10":"L98",
+    "descricao_cid10":"OUTRAS AFECÇÕES DA PELE E DO TECIDO SUBCUTÂNEO NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"T01",
+    "descricao_ciap2":"SEDE EXCESSIVA",
+    "codigo_cid10":"R631",
+    "descricao_cid10":"POLIDIPSIA"
+  },
+  {
+    "codigo_ciap2":"T02",
+    "descricao_ciap2":"APETITE EXCESSIVO",
+    "codigo_cid10":"R632",
+    "descricao_cid10":"POLIFAGIA"
+  },
+  {
+    "codigo_ciap2":"T03",
+    "descricao_ciap2":"PERDA DE APETITE",
+    "codigo_cid10":"R630",
+    "descricao_cid10":"ANOREXIA"
+  },
+  {
+    "codigo_ciap2":"T04",
+    "descricao_ciap2":"PROBLEMAS ALIMENTARES DE LACTENTE\/CRIANÇA",
+    "codigo_cid10":"R633",
+    "descricao_cid10":"DIFICULDADES DE ALIMENTAÇÃO E ERROS NA ADMINISTRAÇÃO DE ALIMENTOS"
+  },
+  {
+    "codigo_ciap2":"T05",
+    "descricao_ciap2":"PROBLEMAS ALIMENTARES DO ADULTO",
+    "codigo_cid10":"R633",
+    "descricao_cid10":"DIFICULDADES DE ALIMENTAÇÃO E ERROS NA ADMINISTRAÇÃO DE ALIMENTOS"
+  },
+  {
+    "codigo_ciap2":"T07",
+    "descricao_ciap2":"AUMENTO DE PESO",
+    "codigo_cid10":"R635",
+    "descricao_cid10":"GANHO DE PESO ANORMAL"
+  },
+  {
+    "codigo_ciap2":"T08",
+    "descricao_ciap2":"PERDA DE PESO",
+    "codigo_cid10":"R634",
+    "descricao_cid10":"PERDA DE PESO ANORMAL"
+  },
+  {
+    "codigo_ciap2":"T10",
+    "descricao_ciap2":"ATRASO DO CRESCIMENTO",
+    "codigo_cid10":"R62",
+    "descricao_cid10":"RETARDO DO DESENVOLVIMENTO FISIOLÓGICO NORMAL"
+  },
+  {
+    "codigo_ciap2":"T11",
+    "descricao_ciap2":"DESIDRATAÇÃO",
+    "codigo_cid10":"E86",
+    "descricao_cid10":"DEPLEÇÃO DE VOLUME"
+  },
+  {
+    "codigo_ciap2":"T26",
+    "descricao_ciap2":"MEDO DE CÂNCER DO SISTEMA ENDÓCRINO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"T27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA ENDÓCRINA\/METABÓLICA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"T28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"T29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS ENDOCRINOLÓGICOS\/METABÓLICOS\/NUTRICIONAIS, OUTROS",
+    "codigo_cid10":"R638",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS A INGESTÃO DE ALIMENTOS E DE LÍQUIDOS"
+  },
+  {
+    "codigo_ciap2":"T70",
+    "descricao_ciap2":"INFECÇÃO ENDÓCRINA",
+    "codigo_cid10":"E060",
+    "descricao_cid10":"TIREOIDITE AGUDA"
+  },
+  {
+    "codigo_ciap2":"T71",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DA TIREÓIDE",
+    "codigo_cid10":"C73",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA GLÂNDULA TIREÓIDE"
+  },
+  {
+    "codigo_ciap2":"T72",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DA TIREÓIDE",
+    "codigo_cid10":"D34",
+    "descricao_cid10":"NEOPLASIA BENIGNA DA GLÂNDULA TIREÓIDE"
+  },
+  {
+    "codigo_ciap2":"T73",
+    "descricao_ciap2":"OUTRA NEOPLASIA ENDÓCRINA NE",
+    "codigo_cid10":"D44",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DAS GLÂNDULAS ENDÓCRINAS"
+  },
+  {
+    "codigo_ciap2":"T78",
+    "descricao_ciap2":"CISTO DO CANAL TIROGLOSSO",
+    "codigo_cid10":"Q892",
+    "descricao_cid10":"MALFORMAÇÕES CONGÊNITAS DE OUTRAS GLÂNDULAS ENDÓCRINAS"
+  },
+  {
+    "codigo_ciap2":"T80",
+    "descricao_ciap2":"MALFORMAÇÃO CONGÊNITA ENDÓCRINA\/METABÓLICA",
+    "codigo_cid10":"Q892",
+    "descricao_cid10":"MALFORMAÇÕES CONGÊNITAS DE OUTRAS GLÂNDULAS ENDÓCRINAS"
+  },
+  {
+    "codigo_ciap2":"T81",
+    "descricao_ciap2":"BÓCIO",
+    "codigo_cid10":"E04",
+    "descricao_cid10":"OUTROS BÓCIOS NÃO-TÓXICOS"
+  },
+  {
+    "codigo_ciap2":"T82",
+    "descricao_ciap2":"OBESIDADE",
+    "codigo_cid10":"E66",
+    "descricao_cid10":"OBESIDADE"
+  },
+  {
+    "codigo_ciap2":"T83",
+    "descricao_ciap2":"EXCESSO DE PESO",
+    "codigo_cid10":"E660",
+    "descricao_cid10":"OBESIDADE DEVIDA A EXCESSO DE CALORIAS"
+  },
+  {
+    "codigo_ciap2":"T85",
+    "descricao_ciap2":"HIPERTIROIDISMO\/TIREOTOXICOSE",
+    "codigo_cid10":"E05",
+    "descricao_cid10":"TIREOTOXICOSE [HIPERTIREOIDISMO]"
+  },
+  {
+    "codigo_ciap2":"T86",
+    "descricao_ciap2":"HIPOTIROIDISMO\/MIXEDEMA",
+    "codigo_cid10":"E03",
+    "descricao_cid10":"OUTROS HIPOTIREOIDISMOS"
+  },
+  {
+    "codigo_ciap2":"T87",
+    "descricao_ciap2":"HIPOGLICEMIA",
+    "codigo_cid10":"E162",
+    "descricao_cid10":"HIPOGLICEMIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"T89",
+    "descricao_ciap2":"DIABETES INSULINO-DEPENDENTE",
+    "codigo_cid10":"E10",
+    "descricao_cid10":"DIABETES MELLITUS INSULINO-DEPENDENTE"
+  },
+  {
+    "codigo_ciap2":"T90",
+    "descricao_ciap2":"DIABETES NÃO INSULINO-DEPENDENTE",
+    "codigo_cid10":"E11",
+    "descricao_cid10":"DIABETES MELLITUS NÃO-INSULINO-DEPENDENTE"
+  },
+  {
+    "codigo_ciap2":"T91",
+    "descricao_ciap2":"DEFICIÊNCIA VITAMÍNICA\/NUTRICIONAL",
+    "codigo_cid10":"E63",
+    "descricao_cid10":"OUTRAS DEFICIÊNCIAS NUTRICIONAIS"
+  },
+  {
+    "codigo_ciap2":"T92",
+    "descricao_ciap2":"GOTA",
+    "codigo_cid10":"M10",
+    "descricao_cid10":"GOTA"
+  },
+  {
+    "codigo_ciap2":"T93",
+    "descricao_ciap2":"ALTERAÇÃO NO METABOLISMO DOS LÍPIDOS",
+    "codigo_cid10":"E78",
+    "descricao_cid10":"DISTÚRBIOS DO METABOLISMO DE LIPOPROTEÍNAS E OUTRAS LIPIDEMIAS"
+  },
+  {
+    "codigo_ciap2":"T99",
+    "descricao_ciap2":"OUTRAS DOENÇAS ENDOCRINOLÓGICA\/METABÓLICA\/NUTRICIONAIS",
+    "codigo_cid10":"E34",
+    "descricao_cid10":"OUTROS TRANSTORNOS ENDÓCRINOS"
+  },
+  {
+    "codigo_ciap2":"U01",
+    "descricao_ciap2":"DISÚRIA\/MICÇÃO DOLOROSA",
+    "codigo_cid10":"R30",
+    "descricao_cid10":"DOR ASSOCIADA À MICÇÃO"
+  },
+  {
+    "codigo_ciap2":"U02",
+    "descricao_ciap2":"MICÇÃO FREQUENTE\/URGÊNCIA URINÁRIA\/ POLACIÚRIA",
+    "codigo_cid10":"R35",
+    "descricao_cid10":"POLIÚRIA"
+  },
+  {
+    "codigo_ciap2":"U04",
+    "descricao_ciap2":"INCONTINÊNCIA URINÁRIA",
+    "codigo_cid10":"R32",
+    "descricao_cid10":"INCONTINÊNCIA URINÁRIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"U05",
+    "descricao_ciap2":"OUTROS PROBLEMAS COM A MICÇÃO",
+    "codigo_cid10":"R391",
+    "descricao_cid10":"OUTRAS DIFICULDADES À MICÇÃO"
+  },
+  {
+    "codigo_ciap2":"U06",
+    "descricao_ciap2":"HEMATÚRIA",
+    "codigo_cid10":"R31",
+    "descricao_cid10":"HEMATÚRIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"U07",
+    "descricao_ciap2":"OUTROS SINAIS\/SINTOMAS URINÁRIOS",
+    "codigo_cid10":"R398",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AO APARELHO URINÁRIO E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"U08",
+    "descricao_ciap2":"RETENÇÃO URINÁRIA",
+    "codigo_cid10":"R33",
+    "descricao_cid10":"RETENÇÃO URINÁRIA"
+  },
+  {
+    "codigo_ciap2":"U13",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA BEXIGA, OUTROS",
+    "codigo_cid10":"R398",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AO APARELHO URINÁRIO E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"U14",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DOS RINS",
+    "codigo_cid10":"N23",
+    "descricao_cid10":"CÓLICA NEFRÉTICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"U26",
+    "descricao_ciap2":"MEDO DE CÂNCER NO APARELHO URINÁRIO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"U27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA URINÁRIA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"U28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"U29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS APARELHO URINÁRIO, OUTROS",
+    "codigo_cid10":"R398",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS AO APARELHO URINÁRIO E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"U70",
+    "descricao_ciap2":"PIELONEFRITE",
+    "codigo_cid10":"N12",
+    "descricao_cid10":"NEFRITE TÚBULO-INTERSTICIAL NÃO ESPECIFICADA SE AGUDA OU CRÔNICA"
+  },
+  {
+    "codigo_ciap2":"U71",
+    "descricao_ciap2":"CISTITE\/OUTRA INFECÇÃO URINÁRIA",
+    "codigo_cid10":"N30",
+    "descricao_cid10":"CISTITE"
+  },
+  {
+    "codigo_ciap2":"U72",
+    "descricao_ciap2":"URETRITE",
+    "codigo_cid10":"N341",
+    "descricao_cid10":"URETRITES NÃO ESPECÍFICAS"
+  },
+  {
+    "codigo_ciap2":"U75",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO RIM",
+    "codigo_cid10":"C64",
+    "descricao_cid10":"NEOPLASIA MALIGNA DO RIM, EXCETO PELVE RENAL"
+  },
+  {
+    "codigo_ciap2":"U76",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DO RIM",
+    "codigo_cid10":"C67",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA BEXIGA"
+  },
+  {
+    "codigo_ciap2":"U77",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO APARELHO URINÁRIO, OUTRA",
+    "codigo_cid10":"C68",
+    "descricao_cid10":"NEOPLASIA MALIGNA DE OUTROS ÓRGÃOS URINÁRIOS E DOS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"U78",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DO APARELHO URINÁRIO",
+    "codigo_cid10":"D30",
+    "descricao_cid10":"NEOPLASIA BENIGNA DOS ÓRGÃOS URINÁRIOS"
+  },
+  {
+    "codigo_ciap2":"U79",
+    "descricao_ciap2":"NEOPLASIA DO APARELHO URINÁRIO NE",
+    "codigo_cid10":"D41",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DOS ÓRGÃOS URINÁRIOS"
+  },
+  {
+    "codigo_ciap2":"U80",
+    "descricao_ciap2":"LESÕES TRAUMÁTICAS DO APARELHO URINÁRIO",
+    "codigo_cid10":"S370",
+    "descricao_cid10":"TRAUMATISMO DO RIM"
+  },
+  {
+    "codigo_ciap2":"U85",
+    "descricao_ciap2":"MALFORMAÇÃO CONGÊNITA DO APARELHO URINÁRIO",
+    "codigo_cid10":"Q64",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DO APARELHO URINÁRIO"
+  },
+  {
+    "codigo_ciap2":"U88",
+    "descricao_ciap2":"GLOMERULONEFRITE\/ SÍNDROME NEFRÓTICA",
+    "codigo_cid10":"N158",
+    "descricao_cid10":"OUTRAS DOENÇAS RENAIS TÚBULO-INTERSTICIAIS ESPECIFICADAS"
+  },
+  {
+    "codigo_ciap2":"U90",
+    "descricao_ciap2":"ALBUMINÚRIA\/PROTEINÚRIA ORTOSTÁTICA",
+    "codigo_cid10":"N392",
+    "descricao_cid10":"PROTEINÚRIA ORTOSTÁTICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"U95",
+    "descricao_ciap2":"CÁLCULO URINÁRIO",
+    "codigo_cid10":"N20",
+    "descricao_cid10":"CALCULOSE DO RIM E DO URETER"
+  },
+  {
+    "codigo_ciap2":"U98",
+    "descricao_ciap2":"ANÁLISE DE URINA ANORMAL NE",
+    "codigo_cid10":"R82",
+    "descricao_cid10":"OUTROS ACHADOS ANORMAIS NA URINA"
+  },
+  {
+    "codigo_ciap2":"U99",
+    "descricao_ciap2":"OUTRAS DOENÇAS URINÁRIAS",
+    "codigo_cid10":"N39",
+    "descricao_cid10":"OUTROS TRANSTORNOS DO TRATO URINÁRIO"
+  },
+  {
+    "codigo_ciap2":"W01",
+    "descricao_ciap2":"QUESTÃO SOBRE GRAVIDEZ",
+    "codigo_cid10":"Z320",
+    "descricao_cid10":"GRAVIDEZ (AINDA) NÃO CONFIRMADA"
+  },
+  {
+    "codigo_ciap2":"W02",
+    "descricao_ciap2":"MEDO DE ESTAR GRÁVIDA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"W03",
+    "descricao_ciap2":"HEMORRAGIA ANTES DO PARTO",
+    "codigo_cid10":"O46",
+    "descricao_cid10":"HEMORRAGIA ANTEPARTO NÃO CLASSIFICADA EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"W05",
+    "descricao_ciap2":"VÔMITOS\/NÁUSEAS DURANTE A GRAVIDEZ",
+    "codigo_cid10":"O21",
+    "descricao_cid10":"VÔMITOS EXCESSIVOS NA GRAVIDEZ"
+  },
+  {
+    "codigo_ciap2":"W10",
+    "descricao_ciap2":"CONTRACEPÇÃO PÓS-COITAL",
+    "codigo_cid10":"Z303",
+    "descricao_cid10":"EXTRAÇÃO MENSTRUAL"
+  },
+  {
+    "codigo_ciap2":"W11",
+    "descricao_ciap2":"CONTRACEPÇÃO ORAL",
+    "codigo_cid10":"Z304",
+    "descricao_cid10":"SUPERVISÃO DO USO DE MEDICAMENTOS ANTICONCEPCIONAIS"
+  },
+  {
+    "codigo_ciap2":"W12",
+    "descricao_ciap2":"CONTRACEPÇÃO INTRA-UTERINA\/ DISPOSITIVO INTRAUTERINO\/ DIU",
+    "codigo_cid10":"Z305",
+    "descricao_cid10":"SUPERVISÃO DE DISPOSITIVO ANTICONCEPCIONAL (INTRA-UTERINO)"
+  },
+  {
+    "codigo_ciap2":"W13",
+    "descricao_ciap2":"ESTERILIZAÇÃO",
+    "codigo_cid10":"Z302",
+    "descricao_cid10":"ESTERILIZAÇÃO"
+  },
+  {
+    "codigo_ciap2":"W14",
+    "descricao_ciap2":"CONTRACEPÇÃO\/OUTROS",
+    "codigo_cid10":"Z30",
+    "descricao_cid10":"ANTICONCEPÇÃO"
+  },
+  {
+    "codigo_ciap2":"W15",
+    "descricao_ciap2":"INFERTILIDADE\/SUBFERTILDADE",
+    "codigo_cid10":"N97",
+    "descricao_cid10":"INFERTILIDADE FEMININA"
+  },
+  {
+    "codigo_ciap2":"W17",
+    "descricao_ciap2":"HEMORRAGIA PÓS-PARTO",
+    "codigo_cid10":"O721",
+    "descricao_cid10":"OUTRAS HEMORRAGIAS DO PÓS-PARTO IMEDIATO"
+  },
+  {
+    "codigo_ciap2":"W18",
+    "descricao_ciap2":"SINAIS\/SINTOMAS PÓS-PARTO",
+    "codigo_cid10":"O90",
+    "descricao_cid10":"COMPLICAÇÕES DO PUERPÉRIO NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"W19",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA MAMA\/LACTAÇÃO",
+    "codigo_cid10":"O92",
+    "descricao_cid10":"OUTRAS AFECÇÕES DA MAMA E DA LACTAÇÃO ASSOCIADAS AO PARTO"
+  },
+  {
+    "codigo_ciap2":"W21",
+    "descricao_ciap2":"PREOCUPAÇÃO COM A IMAGEM CORPORAL NA GRAVIDEZ",
+    "codigo_cid10":"R468",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS À APARÊNCIA E AO COMPORTAMENTO"
+  },
+  {
+    "codigo_ciap2":"W27",
+    "descricao_ciap2":"MEDO DE COMPLICAÇÕES NA GRAVIDEZ",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"W28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"W29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA GRAVIDEZ, OUTROS",
+    "codigo_cid10":"R688",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS GERAIS ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"W70",
+    "descricao_ciap2":"SEPSIS\/INFECÇÃO PUERPERAL",
+    "codigo_cid10":"O85",
+    "descricao_cid10":"INFECCAO PUERPERAL"
+  },
+  {
+    "codigo_ciap2":"W71",
+    "descricao_ciap2":"INFECÇÕES QUE COMPLICAM A GRAVIDEZ",
+    "codigo_cid10":"O98",
+    "descricao_cid10":"DOENÇA INFECCIOSA PARASITÁRIA MATERNA COP MAS QUE COMPLIQUEM A GRAVIDEZ O PARTO E O PUERPÉRIO"
+  },
+  {
+    "codigo_ciap2":"W72",
+    "descricao_ciap2":"NEOPLASIA MALIGNA RELACIONADA COM GRAVIDEZ",
+    "codigo_cid10":"C58",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA PLACENTA"
+  },
+  {
+    "codigo_ciap2":"W73",
+    "descricao_ciap2":"NEOPLASIA BENIGNA\/INCERTA RELACIONADA COM A GRAVIDEZ",
+    "codigo_cid10":"O01",
+    "descricao_cid10":"MOLA HIDATIFORME"
+  },
+  {
+    "codigo_ciap2":"W75",
+    "descricao_ciap2":"LESÕES TRAUMÁTICAS QUE COMPLICAM A GRAVIDEZ",
+    "codigo_cid10":"T14",
+    "descricao_cid10":"TRAUMATISMO DE REGIÃO NÃO ESPECIFICADA DO CORPO"
+  },
+  {
+    "codigo_ciap2":"W76",
+    "descricao_ciap2":"MALFORMAÇÃO CONGÊNITA QUE COMPLICA A GRAVIDEZ",
+    "codigo_cid10":"O998",
+    "descricao_cid10":"OUTRAS DOENÇAS E AFECÇÕES ESPECIFICADAS COMPLICANDO A GRAVIDEZ, O PARTO E O PUERPÉRIO"
+  },
+  {
+    "codigo_ciap2":"W78",
+    "descricao_ciap2":"GRAVIDEZ",
+    "codigo_cid10":"Z34",
+    "descricao_cid10":"SUPERVISÃO DE GRAVIDEZ NORMAL"
+  },
+  {
+    "codigo_ciap2":"W79",
+    "descricao_ciap2":"GRAVIDEZ NÃO DESEJADA",
+    "codigo_cid10":"Z640",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM UMA GRAVIDEZ NÃO DESEJADA"
+  },
+  {
+    "codigo_ciap2":"W80",
+    "descricao_ciap2":"GRAVIDEZ ECTÓPICA",
+    "codigo_cid10":"O00",
+    "descricao_cid10":"GRAVIDEZ ECTÓPICA"
+  },
+  {
+    "codigo_ciap2":"W81",
+    "descricao_ciap2":"TOXEMIA GRAVÍDICA\/ DHEG",
+    "codigo_cid10":"O14",
+    "descricao_cid10":"HIPERTENSÃO GESTACIONAL (INDUZIDA PELA GRAVIDEZ) COM PROTEINÚRIA SIGNIFICATIVA"
+  },
+  {
+    "codigo_ciap2":"W82",
+    "descricao_ciap2":"ABORTO ESPONTÂNEO",
+    "codigo_cid10":"O03",
+    "descricao_cid10":"ABORTO ESPONTÂNEO"
+  },
+  {
+    "codigo_ciap2":"W83",
+    "descricao_ciap2":"ABORTO PROVOCADO",
+    "codigo_cid10":"O04",
+    "descricao_cid10":"ABORTO POR RAZÕES MÉDICAS E LEGAIS"
+  },
+  {
+    "codigo_ciap2":"W84",
+    "descricao_ciap2":"GRAVIDEZ DE ALTO RISCO",
+    "codigo_cid10":"Z35",
+    "descricao_cid10":"SUPERVISÃO DE GRAVIDEZ DE ALTO RISCO"
+  },
+  {
+    "codigo_ciap2":"W85",
+    "descricao_ciap2":"DIABETES GESTACIONAL",
+    "codigo_cid10":"O244",
+    "descricao_cid10":"DIABETES MELLITUS QUE SURGE DURANTE A GRAVIDEZ"
+  },
+  {
+    "codigo_ciap2":"W90",
+    "descricao_ciap2":"PARTO SEM COMPLICAÇÕES DE NASCIDO VIVO",
+    "codigo_cid10":"O80",
+    "descricao_cid10":"PARTO ÚNICO ESPONTÂNEO"
+  },
+  {
+    "codigo_ciap2":"W91",
+    "descricao_ciap2":"PARTO SEM COMPLICAÇÕES DE NATIMORTO",
+    "codigo_cid10":"Z371",
+    "descricao_cid10":"NASCIMENTO ÚNICO, NATIMORTO [FETO-MORTO]"
+  },
+  {
+    "codigo_ciap2":"W92",
+    "descricao_ciap2":"PARTO COM COMPLICAÇÕES DE NASCIDO VIVO",
+    "codigo_cid10":"O80",
+    "descricao_cid10":"PARTO ÚNICO ESPONTÂNEO"
+  },
+  {
+    "codigo_ciap2":"W93",
+    "descricao_ciap2":"PARTO COM COMPLICAÇÕES DE NATIMORTO",
+    "codigo_cid10":"O80",
+    "descricao_cid10":"PARTO ÚNICO ESPONTÂNEO"
+  },
+  {
+    "codigo_ciap2":"W94",
+    "descricao_ciap2":"MASTITE PUERPERAL",
+    "codigo_cid10":"O912",
+    "descricao_cid10":"MASTITE NÃO PURULENTA ASSOCIADA AO PARTO"
+  },
+  {
+    "codigo_ciap2":"W95",
+    "descricao_ciap2":"OUTROS PROBLEMAS DA MAMA DURANTE GRAVIDEZ\/PUERPÉRIO",
+    "codigo_cid10":"O92",
+    "descricao_cid10":"OUTRAS AFECÇÕES DA MAMA E DA LACTAÇÃO ASSOCIADAS AO PARTO"
+  },
+  {
+    "codigo_ciap2":"W96",
+    "descricao_ciap2":"OUTRAS COMPLICAÇÕES DO PUERPÉRIO",
+    "codigo_cid10":"O90",
+    "descricao_cid10":"COMPLICAÇÕES DO PUERPÉRIO NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"W99",
+    "descricao_ciap2":"OUTROS PROBLEMAS DA GRAVIDEZ\/PARTO",
+    "codigo_cid10":"O99",
+    "descricao_cid10":"DOENÇAS DA MÃE CLASSIFICADAS EM OUTRA PARTE, MAS QUE COMPLICAM A GRAVIDEZ O PARTO E O PUERPÉRIO"
+  },
+  {
+    "codigo_ciap2":"X01",
+    "descricao_ciap2":"DOR GENITAL",
+    "codigo_cid10":"R102",
+    "descricao_cid10":"DOR PÉLVICA E PERINEAL"
+  },
+  {
+    "codigo_ciap2":"X02",
+    "descricao_ciap2":"DORES MENSTRUAIS",
+    "codigo_cid10":"N946",
+    "descricao_cid10":"DISMENORRÉIA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X03",
+    "descricao_ciap2":"DORES INTERMENSTRUAIS",
+    "codigo_cid10":"N940",
+    "descricao_cid10":"OVULAÇÃO DOLOROSA [MITTELSCHMERZ]"
+  },
+  {
+    "codigo_ciap2":"X04",
+    "descricao_ciap2":"RELAÇÃO SEXUAL DOLOROSA NA MULHER",
+    "codigo_cid10":"N941",
+    "descricao_cid10":"DISPAREUNIA"
+  },
+  {
+    "codigo_ciap2":"X05",
+    "descricao_ciap2":"MENSTRUAÇÃO ESCASSA\/AUSENTE",
+    "codigo_cid10":"N915",
+    "descricao_cid10":"OLIGOMENORRÉIA, NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X06",
+    "descricao_ciap2":"MENSTRUAÇÃO EXCESSIVA",
+    "codigo_cid10":"N920",
+    "descricao_cid10":"MENSTRUAÇÃO EXCESSIVA E FREQÜENTE COM CICLO REGULAR"
+  },
+  {
+    "codigo_ciap2":"X07",
+    "descricao_ciap2":"MENSTRUAÇÃO IRREGULAR\/FREQUENTE",
+    "codigo_cid10":"N921",
+    "descricao_cid10":"MENSTRUAÇÃO EXCESSIVA E FREQÜENTE COM CICLO IRREGULAR"
+  },
+  {
+    "codigo_ciap2":"X08",
+    "descricao_ciap2":"HEMORRAGIA INTERMENSTRUAL",
+    "codigo_cid10":"N923",
+    "descricao_cid10":"SANGRAMENTO DA OVULAÇÃO"
+  },
+  {
+    "codigo_ciap2":"X09",
+    "descricao_ciap2":"SINAIS\/SINTOMAS PRÉ-MENSTRUAIS",
+    "codigo_cid10":"N94",
+    "descricao_cid10":"OUTRAS AFECÇÕES ASSOCIADAS COM OS ORGÃOS GENITAIS FEMININOS E COM O CICLO MENSTRUAL"
+  },
+  {
+    "codigo_ciap2":"X10",
+    "descricao_ciap2":"DESEJO DE ALTERAR A DATA MENSTRUAÇÃO",
+    "codigo_cid10":"Z30",
+    "descricao_cid10":"ANTICONCEPÇÃO"
+  },
+  {
+    "codigo_ciap2":"X11",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA MENOPAUSA\/ CLIMATÉRIO",
+    "codigo_cid10":"N95",
+    "descricao_cid10":"TRANSTORNOS DA MENOPAUSA E DA PERIMENOPAUSA"
+  },
+  {
+    "codigo_ciap2":"X12",
+    "descricao_ciap2":"HEMORRAGIA PÓS-MENOPAUSA",
+    "codigo_cid10":"N950",
+    "descricao_cid10":"SANGRAMENTO PÓS-MENOPAUSA"
+  },
+  {
+    "codigo_ciap2":"X13",
+    "descricao_ciap2":"HEMORRAGIA PÓS-COITAL",
+    "codigo_cid10":"N930",
+    "descricao_cid10":"SANGRAMENTOS PÓS-COITO OU DE CONTATO"
+  },
+  {
+    "codigo_ciap2":"X14",
+    "descricao_ciap2":"SECREÇÃO VAGINAL",
+    "codigo_cid10":"N898",
+    "descricao_cid10":"OUTROS TRANSTORNOS NÃO-INFLAMATÓRIOS ESPECIFICADOS DA VAGINA"
+  },
+  {
+    "codigo_ciap2":"X15",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA VAGINA",
+    "codigo_cid10":"N89",
+    "descricao_cid10":"TRANSTORNOS NÃO-INFLAMATÓRIOS DA VAGINA"
+  },
+  {
+    "codigo_ciap2":"X16",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA VULVA",
+    "codigo_cid10":"N90",
+    "descricao_cid10":"TRANSTORNOS NÃO-INFLAMATÓRIOS DA VULVA E DO PERINEO"
+  },
+  {
+    "codigo_ciap2":"X17",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA PÉLVIS FEMININA",
+    "codigo_cid10":"N94",
+    "descricao_cid10":"OUTRAS AFECÇÕES ASSOCIADAS COM OS ORGÃOS GENITAIS FEMININOS E COM O CICLO MENSTRUAL"
+  },
+  {
+    "codigo_ciap2":"X18",
+    "descricao_ciap2":"DOR NA MAMA FEMININA",
+    "codigo_cid10":"N644",
+    "descricao_cid10":"MASTODINIA"
+  },
+  {
+    "codigo_ciap2":"X19",
+    "descricao_ciap2":"TUMOR OU NÓDULO NA MAMA FEMININA",
+    "codigo_cid10":"N63",
+    "descricao_cid10":"NÓDULO MAMÁRIO NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"X20",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO MAMILO DA MULHER",
+    "codigo_cid10":"N645",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS DA MAMA"
+  },
+  {
+    "codigo_ciap2":"X21",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA MAMA FEMININA, OUTROS",
+    "codigo_cid10":"N64",
+    "descricao_cid10":"OUTRAS DOENÇAS DA MAMA"
+  },
+  {
+    "codigo_ciap2":"X22",
+    "descricao_ciap2":"PREOCUPAÇÃO COM A APARÊNCIA DA MAMA FEMININA",
+    "codigo_cid10":"R468",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS RELATIVOS À APARÊNCIA E AO COMPORTAMENTO"
+  },
+  {
+    "codigo_ciap2":"X23",
+    "descricao_ciap2":"MEDO DE DOENÇA DE TRANSMISSÃO SEXUAL",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"X24",
+    "descricao_ciap2":"MEDO DE DISFUNÇÃO SEXUAL",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"X25",
+    "descricao_ciap2":"MEDO DE CÂNCER GENITAL",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"X26",
+    "descricao_ciap2":"MEDO DE CÂNCER NA MAMA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"X27",
+    "descricao_ciap2":"MEDO DE OUTRA DOENÇA GENITAL\/MAMA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"X28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"X29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO APARELHO GENITAL FEMININO, OUTRA",
+    "codigo_cid10":"N94",
+    "descricao_cid10":"OUTRAS AFECÇÕES ASSOCIADAS COM OS ORGÃOS GENITAIS FEMININOS E COM O CICLO MENSTRUAL"
+  },
+  {
+    "codigo_ciap2":"X70",
+    "descricao_ciap2":"SÍFILIS FEMININA",
+    "codigo_cid10":"A53",
+    "descricao_cid10":"OUTRAS FORMAS E AS NÃO ESPECIFICADAS DA SÍFILIS"
+  },
+  {
+    "codigo_ciap2":"X71",
+    "descricao_ciap2":"GONORRÉIA FEMININA",
+    "codigo_cid10":"A549",
+    "descricao_cid10":"INFECÇÃO GONOCÓCICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X72",
+    "descricao_ciap2":"CANDIDÍASE GENITAL FEMININA",
+    "codigo_cid10":"B373",
+    "descricao_cid10":"CANDIDÍASE DA VULVA E DA VAGINA"
+  },
+  {
+    "codigo_ciap2":"X73",
+    "descricao_ciap2":"TRICOMONÍASE GENITAL FEMININA",
+    "codigo_cid10":"A590",
+    "descricao_cid10":"TRICOMONÍASE UROGENITAL"
+  },
+  {
+    "codigo_ciap2":"X74",
+    "descricao_ciap2":"DOENÇA INFLAMATÓRIA PÉLVICA",
+    "codigo_cid10":"N739",
+    "descricao_cid10":"DOENÇA INFLAMATÓRIA NÃO ESPECIFICADA DA PELVE FEMININA"
+  },
+  {
+    "codigo_ciap2":"X75",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DO COLO",
+    "codigo_cid10":"C539",
+    "descricao_cid10":"NEOPLASIA MALIGNA DO COLO DO ÚTERO, NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"X76",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DA MAMA FEMININA",
+    "codigo_cid10":"C509",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA MAMA, NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X77",
+    "descricao_ciap2":"NEOPLASIA MALIGNA GENITAL FEMININA, OUTRA",
+    "codigo_cid10":"C577",
+    "descricao_cid10":"NEOPLASIA MALIGNA DE OUTRAS PARTES ESPECIFICADAS DOS ÓRGÃOS GENITAIS FEMININOS"
+  },
+  {
+    "codigo_ciap2":"X78",
+    "descricao_ciap2":"FIBROMIOMA UTERINO",
+    "codigo_cid10":"D259",
+    "descricao_cid10":"LEIOMIOMA DO ÚTERO, NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"X79",
+    "descricao_ciap2":"NEOPLASIA BENIGNA DA MAMA FEMININA\/ FIBROADENOMA",
+    "codigo_cid10":"D24",
+    "descricao_cid10":"NEOPLASIA BENIGNA DA MAMA"
+  },
+  {
+    "codigo_ciap2":"X80",
+    "descricao_ciap2":"NEOPLASIA BENIGNA GENITAL",
+    "codigo_cid10":"D289",
+    "descricao_cid10":"NEOPLASIA BENIGNA DE ÓRGÃO GENITAL FEMININO, NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"X81",
+    "descricao_ciap2":"NEOPLASIA GENITAL FEMININA, OUTRA\/NE",
+    "codigo_cid10":"D397",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DE OUTROS ÓRGÃOS GENITAIS FEMININOS"
+  },
+  {
+    "codigo_ciap2":"X82",
+    "descricao_ciap2":"LESÃO TRAUMÁTICA GENITAL FEMININA",
+    "codigo_cid10":"S314",
+    "descricao_cid10":"FERIMENTO DA VAGINA E DA VULVA"
+  },
+  {
+    "codigo_ciap2":"X83",
+    "descricao_ciap2":"MALFORMAÇÕES CONGÊNITAS GENITAIS",
+    "codigo_cid10":"Q529",
+    "descricao_cid10":"MALFORMAÇÃO CONGÊNITA NÃO ESPECIFICADA DOS ÓRGÃOS GENITAIS FEMININOS"
+  },
+  {
+    "codigo_ciap2":"X84",
+    "descricao_ciap2":"VAGINITE\/VULVITE NE",
+    "codigo_cid10":"N768",
+    "descricao_cid10":"OUTRAS INFLAMAÇÕES ESPECIFICADAS DA VAGINA E DA VULVA"
+  },
+  {
+    "codigo_ciap2":"X85",
+    "descricao_ciap2":"DOENÇA DO COLO NE",
+    "codigo_cid10":"N889",
+    "descricao_cid10":"TRANSTORNO NÃO-INFLAMATÓRIO E NÃO ESPECIFICADO DO COLO DO ÚTERO"
+  },
+  {
+    "codigo_ciap2":"X86",
+    "descricao_ciap2":"ESFREGAÇO DE PAPANICOLAU\/COLPOCITOLOGIA ONCÓTICA ANORMAL",
+    "codigo_cid10":"N879",
+    "descricao_cid10":"DISPLASIA DO COLO DO ÚTERO, NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X87",
+    "descricao_ciap2":"PROLAPSO UTERO-VAGINAL",
+    "codigo_cid10":"N819",
+    "descricao_cid10":"PROLAPSO GENITAL FEMININO NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"X88",
+    "descricao_ciap2":"DOENÇA FIBROCÍSTICA DA MAMA",
+    "codigo_cid10":"N609",
+    "descricao_cid10":"DISPLASIA MAMÁRIA BENIGNA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X89",
+    "descricao_ciap2":"SÍNDROME DA TENSÃO PRÉ-MENSTRUAL",
+    "codigo_cid10":"N943",
+    "descricao_cid10":"SÍNDROME DE TENSÃO PRÉ-MENSTRUAL"
+  },
+  {
+    "codigo_ciap2":"X90",
+    "descricao_ciap2":"HERPES GENITAL FEMININO",
+    "codigo_cid10":"A609",
+    "descricao_cid10":"INFECÇÃO ANOGENITAL NÃO ESPECIFICADA PELO VÍRUS DO HERPES"
+  },
+  {
+    "codigo_ciap2":"X91",
+    "descricao_ciap2":"CONDILOMA ACUMINADO FEMININO",
+    "codigo_cid10":"A630",
+    "descricao_cid10":"VERRUGAS ANOGENITAIS (VENÉREAS)"
+  },
+  {
+    "codigo_ciap2":"X92",
+    "descricao_ciap2":"INFECÇÃO POR CLAMÍDIA",
+    "codigo_cid10":"A562",
+    "descricao_cid10":"INFECÇÃO POR CLAMÍDIAS DO TRATO GENITURINÁRIO, LOCALIZAÇÃO NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"X99",
+    "descricao_ciap2":"DOENÇA GENITAL FEMININA, OUTRA",
+    "codigo_cid10":"N90",
+    "descricao_cid10":"TRANSTORNOS NÃO-INFLAMATÓRIOS DA VULVA E DO PERINEO"
+  },
+  {
+    "codigo_ciap2":"Y01",
+    "descricao_ciap2":"DOR NO PÊNIS",
+    "codigo_cid10":"R102",
+    "descricao_cid10":"DOR PÉLVICA E PERINEAL"
+  },
+  {
+    "codigo_ciap2":"Y02",
+    "descricao_ciap2":"DOR NO ESCROTO\/TESTÍCULOS",
+    "codigo_cid10":"R102",
+    "descricao_cid10":"DOR PÉLVICA E PERINEAL"
+  },
+  {
+    "codigo_ciap2":"Y03",
+    "descricao_ciap2":"SECREÇÃO URETRAL",
+    "codigo_cid10":"R36",
+    "descricao_cid10":"SECREÇÃO URETRAL"
+  },
+  {
+    "codigo_ciap2":"Y04",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO PÊNIS, OUTROS",
+    "codigo_cid10":"N48",
+    "descricao_cid10":"TRANSTORNOS DO PÊNIS"
+  },
+  {
+    "codigo_ciap2":"Y05",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DO ESCROTO\/TESTÍCULOS, OUTROS",
+    "codigo_cid10":"N50",
+    "descricao_cid10":"TRANSTORNOS DOS ORGÃOS GENITAIS MASCULINOS"
+  },
+  {
+    "codigo_ciap2":"Y06",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA PRÓSTATA",
+    "codigo_cid10":"N42",
+    "descricao_cid10":"OUTRAS AFECÇÕES DA PRÓSTATA"
+  },
+  {
+    "codigo_ciap2":"Y07",
+    "descricao_ciap2":"IMPOTÊNCIA NE",
+    "codigo_cid10":"N484",
+    "descricao_cid10":"IMPOTÊNCIA DE ORIGEM ORGÂNICA"
+  },
+  {
+    "codigo_ciap2":"Y08",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA FUNÇÃO SEXUAL MASCULINA, OUTROS",
+    "codigo_cid10":"N48",
+    "descricao_cid10":"TRANSTORNOS DO PÊNIS"
+  },
+  {
+    "codigo_ciap2":"Y10",
+    "descricao_ciap2":"INFERTILIDADE\/SUBFERTILDADE MASCULINA",
+    "codigo_cid10":"N46",
+    "descricao_cid10":"INFERTILIDADE MASCULINA"
+  },
+  {
+    "codigo_ciap2":"Y13",
+    "descricao_ciap2":"ESTERILIZAÇÃO MASCULINA",
+    "codigo_cid10":"Z302",
+    "descricao_cid10":"ESTERILIZAÇÃO"
+  },
+  {
+    "codigo_ciap2":"Y14",
+    "descricao_ciap2":"PLANEJAMENTO FAMILIAR, OUTROS",
+    "codigo_cid10":"Z30",
+    "descricao_cid10":"ANTICONCEPÇÃO"
+  },
+  {
+    "codigo_ciap2":"Y16",
+    "descricao_ciap2":"SINAIS\/SINTOMAS DA MAMA MASCULINA",
+    "codigo_cid10":"N645",
+    "descricao_cid10":"OUTROS SINTOMAS E SINAIS DA MAMA"
+  },
+  {
+    "codigo_ciap2":"Y24",
+    "descricao_ciap2":"MEDO DE DISFUNÇÃO SEXUAL MASCULINA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"Y25",
+    "descricao_ciap2":"MEDO DE DOENÇA SEXUALMENTE TRANSMISSÍVEL",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"Y26",
+    "descricao_ciap2":"MEDO DE CÂNCER GENITAL MASCULINO",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"Y27",
+    "descricao_ciap2":"MEDO DE DOENÇA GENITAL MASCULINA, OUTRA",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"Y28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z736",
+    "descricao_cid10":"LIMITES IMPOSTOS ÀS ATIVIDADES POR INVALIDEZ"
+  },
+  {
+    "codigo_ciap2":"Y29",
+    "descricao_ciap2":"SINAIS\/SINTOMAS, OUTROS",
+    "codigo_cid10":"N50",
+    "descricao_cid10":"TRANSTORNOS DOS ORGÃOS GENITAIS MASCULINOS"
+  },
+  {
+    "codigo_ciap2":"Y70",
+    "descricao_ciap2":"SÍFILIS MASCULINA",
+    "codigo_cid10":"A53",
+    "descricao_cid10":"OUTRAS FORMAS E AS NÃO ESPECIFICADAS DA SÍFILIS"
+  },
+  {
+    "codigo_ciap2":"Y71",
+    "descricao_ciap2":"GONORRÉIA MASCULINA",
+    "codigo_cid10":"A54",
+    "descricao_cid10":"INFECÇÃO GONOCÓCICA"
+  },
+  {
+    "codigo_ciap2":"Y72",
+    "descricao_ciap2":"HERPES GENITAL",
+    "codigo_cid10":"A600",
+    "descricao_cid10":"INFECÇÃO DOS ÓRGÃOS GENITAIS E DO TRATO GENITURINÁRIO PELO VÍRUS DO HERPES"
+  },
+  {
+    "codigo_ciap2":"Y73",
+    "descricao_ciap2":"PROSTATITE\/VESICULITE SEMINAL",
+    "codigo_cid10":"N41",
+    "descricao_cid10":"DOENÇAS INFLAMATÓRIAS DA PRÓSTATA"
+  },
+  {
+    "codigo_ciap2":"Y74",
+    "descricao_ciap2":"ORQUITE\/EPIDIDIMITE",
+    "codigo_cid10":"N45",
+    "descricao_cid10":"ORQUITE E EPIDIDIMITE"
+  },
+  {
+    "codigo_ciap2":"Y75",
+    "descricao_ciap2":"BALANITE\/ BALANOPOSTITE",
+    "codigo_cid10":"N481",
+    "descricao_cid10":"BALANOPOSTITE"
+  },
+  {
+    "codigo_ciap2":"Y76",
+    "descricao_ciap2":"CONDILOMA ACUMINADO",
+    "codigo_cid10":"A630",
+    "descricao_cid10":"VERRUGAS ANOGENITAIS (VENÉREAS)"
+  },
+  {
+    "codigo_ciap2":"Y77",
+    "descricao_ciap2":"NEOPLASIA MALIGNA DA PRÓSTATA",
+    "codigo_cid10":"C61",
+    "descricao_cid10":"NEOPLASIA MALIGNA DA PRÓSTATA"
+  },
+  {
+    "codigo_ciap2":"Y78",
+    "descricao_ciap2":"NEOPLASIA MALIGNA GENITAL MASCULINA, OUTRA",
+    "codigo_cid10":"C63",
+    "descricao_cid10":"NEOPLASIA MALÍGNA DE OUTROS ORGÃOS GENITAIS MASCULINOS E DOS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"Y79",
+    "descricao_ciap2":"NEOPLASIA BENIGNA GENITAL MASCULINA NE",
+    "codigo_cid10":"D40",
+    "descricao_cid10":"NEOPLASIA DE COMPORTAMENTO INCERTO OU DESCONHECIDO DOS ORGÃOS GENITAIS MASCULINOS"
+  },
+  {
+    "codigo_ciap2":"Y80",
+    "descricao_ciap2":"TRAUMATISMO GENITAL MASCULINO, OUTRO",
+    "codigo_cid10":"S315",
+    "descricao_cid10":"FERIMENTO DE OUTROS ÓRGÃOS GENITAIS EXTERNOS E OS NÃO ESPECIFICADOS"
+  },
+  {
+    "codigo_ciap2":"Y81",
+    "descricao_ciap2":"FIMOSE\/PREPÚCIO REDUNDANTE",
+    "codigo_cid10":"N47",
+    "descricao_cid10":"HIPERTROFIA DO PREPÚCIO, FIMOSE E PARAFIMOSE"
+  },
+  {
+    "codigo_ciap2":"Y82",
+    "descricao_ciap2":"HIPOSPÁDIAS",
+    "codigo_cid10":"Q54",
+    "descricao_cid10":"HIPOSPÁDIAS"
+  },
+  {
+    "codigo_ciap2":"Y83",
+    "descricao_ciap2":"TESTÍCULO NÃO DESCIDO\/ CRIPTORQUIDIA\/ TESTÍCULO ECTÓPICO",
+    "codigo_cid10":"Q53",
+    "descricao_cid10":"TESTÍCULO NÃO-DESCIDO"
+  },
+  {
+    "codigo_ciap2":"Y84",
+    "descricao_ciap2":"MALFORMAÇÃO GENITAL CONGÊNITA MASCULINA, OUTRA",
+    "codigo_cid10":"Q55",
+    "descricao_cid10":"OUTRAS MALFORMAÇÕES CONGÊNITAS DOS ÓRGÃOS GENITAIS MASCULINOS"
+  },
+  {
+    "codigo_ciap2":"Y85",
+    "descricao_ciap2":"HIPERTROFIA BENIGNA DA PRÓSTATA\/ HIPERPLASIA PROSTÁTICA BENIGNA",
+    "codigo_cid10":"N392",
+    "descricao_cid10":"PROTEINÚRIA ORTOSTÁTICA NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"Y86",
+    "descricao_ciap2":"HIDROCELE",
+    "codigo_cid10":"N433",
+    "descricao_cid10":"HIDROCELE NÃO ESPECIFICADA"
+  },
+  {
+    "codigo_ciap2":"Y99",
+    "descricao_ciap2":"DOENÇA GENITAL MASCULINA, OUTRA",
+    "codigo_cid10":"N50",
+    "descricao_cid10":"TRANSTORNOS DOS ORGÃOS GENITAIS MASCULINOS"
+  },
+  {
+    "codigo_ciap2":"Z01",
+    "descricao_ciap2":"POBREZA\/PROBLEMAS ECONÔMICOS",
+    "codigo_cid10":"Z596",
+    "descricao_cid10":"BAIXO RENDIMENTO"
+  },
+  {
+    "codigo_ciap2":"Z02",
+    "descricao_ciap2":"PROBLEMAS RELACIONADOS A ÁGUA\/ALIMENTAÇÃO",
+    "codigo_cid10":"Z594",
+    "descricao_cid10":"FALTA DE ALIMENTAÇÃO ADEQUADA"
+  },
+  {
+    "codigo_ciap2":"Z03",
+    "descricao_ciap2":"PROBLEMAS DE HABITAÇÃO\/VIZINHANÇA",
+    "codigo_cid10":"Z59",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM A HABITAÇÃO E COM AS CONDIÇÕES ECONÔMICAS"
+  },
+  {
+    "codigo_ciap2":"Z04",
+    "descricao_ciap2":"PROBLEMA SÓCIO-CULTURAL",
+    "codigo_cid10":"Z60",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM O MEIO SOCIAL"
+  },
+  {
+    "codigo_ciap2":"Z05",
+    "descricao_ciap2":"PROBLEMAS COM CONDIÇÕES DE TRABALHO",
+    "codigo_cid10":"Z567",
+    "descricao_cid10":"OUTROS PROBLEMAS E OS NÃO ESPECIFICADOS RELACIONADOS COM O EMPREGO"
+  },
+  {
+    "codigo_ciap2":"Z06",
+    "descricao_ciap2":"PROBLEMAS DE DESEMPREGO",
+    "codigo_cid10":"Z560",
+    "descricao_cid10":"DESEMPREGO NÃO ESPECIFICADO"
+  },
+  {
+    "codigo_ciap2":"Z07",
+    "descricao_ciap2":"PROBLEMAS RELACIONADOS COM EDUCAÇÃO",
+    "codigo_cid10":"Z55",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM A EDUCAÇÃO E COM A ALFABETIZAÇÃO"
+  },
+  {
+    "codigo_ciap2":"Z08",
+    "descricao_ciap2":"PROBLEMA RELACIONADO COM SISTEMA DE SEGURANÇA SOCIAL",
+    "codigo_cid10":"Z597",
+    "descricao_cid10":"SEGURO SOCIAL E MEDIDAS DE BEM-ESTAR SOCIAL INSUFICIENTES"
+  },
+  {
+    "codigo_ciap2":"Z09",
+    "descricao_ciap2":"PROBLEMA DE ORDEM LEGAL",
+    "codigo_cid10":"Z653",
+    "descricao_cid10":"PROBLEMAS LIGADOS À OUTRAS CIRCUNSTÂNCIAS LEGAIS"
+  },
+  {
+    "codigo_ciap2":"Z10",
+    "descricao_ciap2":"PROBLEMA RELACIONADO COM SISTEMA DE SAÚDE",
+    "codigo_cid10":"Z75",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM AS FACILIDADES MÉDICAS E OUTROS CUIDADOS DE SAÚDE"
+  },
+  {
+    "codigo_ciap2":"Z11",
+    "descricao_ciap2":"PROBLEMA RELACIONADO COM ESTAR DOENTE",
+    "codigo_cid10":"Z75",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM AS FACILIDADES MÉDICAS E OUTROS CUIDADOS DE SAÚDE"
+  },
+  {
+    "codigo_ciap2":"Z12",
+    "descricao_ciap2":"PROBLEMA DE RELACIONAMENTO COM PARCEIRO\/ CONJUGAL",
+    "codigo_cid10":"Z630",
+    "descricao_cid10":"PROBLEMAS NAS RELAÇÕES COM CÔNJUGE OU PARCEIRO"
+  },
+  {
+    "codigo_ciap2":"Z13",
+    "descricao_ciap2":"PROBLEMA COMPORTAMENTAL DO PARCEIRO\/ COMPANHEIRO",
+    "codigo_cid10":"Z630",
+    "descricao_cid10":"PROBLEMAS NAS RELAÇÕES COM CÔNJUGE OU PARCEIRO"
+  },
+  {
+    "codigo_ciap2":"Z14",
+    "descricao_ciap2":"PROBLEMA POR DOENÇA DO PARCEIRO\/ COMPANHEIRO",
+    "codigo_cid10":"Z636",
+    "descricao_cid10":"PARENTE DEPENDENTE DE CUIDADOS, RESIDENTE NO DOMICÍLIO"
+  },
+  {
+    "codigo_ciap2":"Z15",
+    "descricao_ciap2":"PERDA OU FALECIMENTO DO PARCEIRO\/ COMPANHEIRO",
+    "codigo_cid10":"Z634",
+    "descricao_cid10":"DESAPARECIMENTO OU FALECIMENTO DE UM MEMBRO DA FAMÍLIA"
+  },
+  {
+    "codigo_ciap2":"Z16",
+    "descricao_ciap2":"PROBLEMA DE RELACIONAMENTO COM CRIANÇA",
+    "codigo_cid10":"Z62",
+    "descricao_cid10":"OUTROS PROBLEMAS RELACIONADOS COM A EDUCAÇÃO DA CRIANÇA"
+  },
+  {
+    "codigo_ciap2":"Z18",
+    "descricao_ciap2":"PROBLEMA COM CRIANÇA DOENTE",
+    "codigo_cid10":"Z636",
+    "descricao_cid10":"PARENTE DEPENDENTE DE CUIDADOS, RESIDENTE NO DOMICÍLIO"
+  },
+  {
+    "codigo_ciap2":"Z19",
+    "descricao_ciap2":"PERDA OU FALECIMENTO DE CRIANÇA",
+    "codigo_cid10":"Z634",
+    "descricao_cid10":"DESAPARECIMENTO OU FALECIMENTO DE UM MEMBRO DA FAMÍLIA"
+  },
+  {
+    "codigo_ciap2":"Z20",
+    "descricao_ciap2":"PROBLEMA DE RELACIONAMENTO COM FAMILIARES",
+    "codigo_cid10":"Z631",
+    "descricao_cid10":"PROBLEMAS NAS RELAÇÕES COM OS PAIS OU COM OS SOGROS"
+  },
+  {
+    "codigo_ciap2":"Z21",
+    "descricao_ciap2":"PROBLEMA COMPORTAMENTAL DE FAMILIAR",
+    "codigo_cid10":"Z63",
+    "descricao_cid10":"OUTROS PROBLEMAS RELACIONADOS COM O GRUPO PRIMÁRIO DE APOIO, INCLUSIVE COM A SITUAÇÃO FAMILIAR"
+  },
+  {
+    "codigo_ciap2":"Z22",
+    "descricao_ciap2":"PROBLEMA POR DOENÇA FAMILIAR",
+    "codigo_cid10":"Z637",
+    "descricao_cid10":"OUTROS ACONTECIMENTOS DIFÍCEIS COM INCIDÊNCIA NA FAMÍLIA OU NO LAR"
+  },
+  {
+    "codigo_ciap2":"Z23",
+    "descricao_ciap2":"PERDA\/FALECIMENTO DE FAMILIAR",
+    "codigo_cid10":"Z634",
+    "descricao_cid10":"DESAPARECIMENTO OU FALECIMENTO DE UM MEMBRO DA FAMÍLIA"
+  },
+  {
+    "codigo_ciap2":"Z24",
+    "descricao_ciap2":"PROBLEMA DE RELACIONAMENTO COM AMIGOS",
+    "codigo_cid10":"Z63",
+    "descricao_cid10":"OUTROS PROBLEMAS RELACIONADOS COM O GRUPO PRIMÁRIO DE APOIO, INCLUSIVE COM A SITUAÇÃO FAMILIAR"
+  },
+  {
+    "codigo_ciap2":"Z25",
+    "descricao_ciap2":"ATO OU ACONTECIMENTO VIOLENTO",
+    "codigo_cid10":"T74",
+    "descricao_cid10":"SÍNDROMES DE MAUS TRATOS"
+  },
+  {
+    "codigo_ciap2":"Z27",
+    "descricao_ciap2":"MEDO DE PROBLEMA SOCIAL",
+    "codigo_cid10":"Z711",
+    "descricao_cid10":"PESSOA COM MEDO DE UMA QUEIXA PARA A QUAL NÃO FOI FEITO DIAGNÓSTICO"
+  },
+  {
+    "codigo_ciap2":"Z28",
+    "descricao_ciap2":"LIMITAÇÃO FUNCIONAL\/INCAPACIDADE",
+    "codigo_cid10":"Z734",
+    "descricao_cid10":"HABILIDADES SOCIAIS INADEQUADAS NÃO CLASSIFICADAS EM OUTRA PARTE"
+  },
+  {
+    "codigo_ciap2":"Z29",
+    "descricao_ciap2":"PROBLEMA SOCIAL NE",
+    "codigo_cid10":"Z65",
+    "descricao_cid10":"PROBLEMAS RELACIONADOS COM OUTRAS CIRCUNSTÂNCIAS PSICOSSOCIAIS"
+  }
+]
