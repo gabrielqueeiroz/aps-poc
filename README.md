@@ -2,6 +2,7 @@
 Este repositório contém o código e a Prova de Conceito (PoC) da nossa pesquisa, que propõe uma arquitetura inovadora para enfrentar as barreiras de implementação dos Sistemas de Apoio à Decisão Clínica (SADC).
 
 ➡️**Artigo Completo (PDF):** [Acesse o Artigo Aceito no Congresso Pan-Amazônico de Oncologia](https://github.com/gabrielqueeiroz/aps-poc/blob/2b7a9360eac354d95c8996c05ea87b2f6bb68101/gabriel-pan-amazonico2.pdf)
+➡️**Poster Apresentado:** [Acesse o Artigo Aceito no Congresso Pan-Amazônico de Oncologia](https://github.com/gabrielqueeiroz/aps-poc/blob/main/Poster-Pan-Amazonico-1.pdf)
 
 ## 💡 O Problema: Por que os SADCs falham na implementação?
 Apesar de seu valor, a implementação de SADCs em Contextos de Recursos Limitados enfrenta desafios significativos. Entre as barreiras mais comuns, destacam-se:
